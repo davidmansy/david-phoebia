@@ -1,5 +1,4 @@
-// load up route for users
-const userRoutes = require("./users");
+const packagesRoutes = require("./packages");
 
 const appRouter = (app, fs) => {
   // default route here that handles empty routes at the base API url
@@ -7,8 +6,7 @@ const appRouter = (app, fs) => {
     res.send("welcome to the development api-server");
   });
 
-  // run our user route module here to complete the wire up
-  userRoutes(app, fs);
+  packagesRoutes(app, fs);
 };
 
 // this line is unchanged

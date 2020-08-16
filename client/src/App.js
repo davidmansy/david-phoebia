@@ -2,10 +2,12 @@ import React from "react";
 import "./App.css";
 
 function App() {
-  const [users, setUsers] = React.useState([]);
+  const [packages, setPackages] = React.useState([]);
+  const PACKAGE_URL = "/packages";
+  const searchString = "rea";
 
   const callBackendAPI = async () => {
-    const response = await fetch("/users");
+    const response = await fetch(`${PACKAGE_URL}?q=${searchString}`);
     const body = await response.json();
 
     if (response.status !== 200) {
@@ -16,8 +18,8 @@ function App() {
 
   React.useEffect(() => {
     callBackendAPI()
-      .then((users) => {
-        setUsers(users);
+      .then((packages) => {
+        setPackages(packages);
       })
       .catch((err) => console.log(err));
   }, []);
@@ -25,8 +27,12 @@ function App() {
   return (
     <div className="App">
       <p> Hello</p>
-      {users.map(({ name, id }) => {
-        return <p key={id}>{name}</p>;
+      {packages.map(({ package: npmPackage }) => {
+        return (
+          <p key={`${npmPackage.name}-${npmPackage.version}`}>
+            {npmPackage.name}
+          </p>
+        );
       })}
     </div>
   );

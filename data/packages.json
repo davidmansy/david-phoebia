@@ -1,0 +1,4945 @@
+[
+  {
+    "package": {
+      "name": "re",
+      "scope": "unscoped",
+      "version": "0.1.4",
+      "description": "Do it again, after a bit.",
+      "keywords": ["utility", "retry", "exponential backoff", "linear backoff"],
+      "date": "2015-04-10T15:21:51.833Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re"
+      },
+      "author": {
+        "name": "Waylon Flinn",
+        "email": "waylonflinn@gmail.com",
+        "username": "waylonflinn"
+      },
+      "publisher": {
+        "username": "waylonflinn",
+        "email": "waylonflinn@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "waylonflinn",
+          "email": "waylonflinn@gmail.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.05352203846425191,
+      "detail": {
+        "quality": 0.10385178291341106,
+        "popularity": 0.06390429597208168,
+        "maintenance": 0
+      }
+    },
+    "searchScore": 1000.75183,
+    "highlight": "<em>re</em>"
+  },
+  {
+    "package": {
+      "name": "re-resizable",
+      "scope": "unscoped",
+      "version": "6.5.4",
+      "description": "Resizable component for React.",
+      "keywords": ["react", "resize", "resizable", "component"],
+      "date": "2020-07-13T08:51:09.892Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-resizable",
+        "homepage": "https://github.com/bokuweb/react-resizable-box",
+        "repository": "https://github.com/bokuweb/react-resizable-box",
+        "bugs": "https://github.com/bokuweb/react-resizable-box/issues"
+      },
+      "author": {
+        "name": "bokuweb"
+      },
+      "publisher": {
+        "username": "bokuweb",
+        "email": "bokuweb12@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "bokuweb",
+          "email": "bokuweb12@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.7659072991396102,
+      "detail": {
+        "quality": 0.9540266962456158,
+        "popularity": 0.37393740665565056,
+        "maintenance": 0.9966319941041367
+      }
+    },
+    "searchScore": 9.836014,
+    "highlight": "<em>re</em>-<em>re</em>sizable"
+  },
+  {
+    "package": {
+      "name": "re-reselect",
+      "scope": "unscoped",
+      "version": "4.0.0",
+      "description": "Enhance Reselect selectors with deeper memoization and cache management",
+      "keywords": ["react", "redux", "reselect", "memoize", "cache"],
+      "date": "2020-05-07T08:51:52.980Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-reselect",
+        "homepage": "https://github.com/toomuchdesign/re-reselect#readme",
+        "repository": "https://github.com/toomuchdesign/re-reselect",
+        "bugs": "https://github.com/toomuchdesign/re-reselect/issues"
+      },
+      "author": {
+        "name": "Andrea Carraro",
+        "email": "me@andreacarraro.it",
+        "username": "toomuchdesign"
+      },
+      "publisher": {
+        "username": "toomuchdesign",
+        "email": "me@andreacarraro.it"
+      },
+      "maintainers": [
+        {
+          "username": "toomuchdesign",
+          "email": "me@andreacarraro.it"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.751541032853297,
+      "detail": {
+        "quality": 0.9995220168302565,
+        "popularity": 0.2906319181800361,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 9.666406,
+    "highlight": "<em>re</em>-<em>re</em>select"
+  },
+  {
+    "package": {
+      "name": "re-emitter",
+      "scope": "unscoped",
+      "version": "1.1.4",
+      "description": "Re emit events from another emitter",
+      "keywords": [
+        "reemit",
+        "re emit",
+        "re-emit",
+        "reemitter",
+        "filter events",
+        "events",
+        "emitter"
+      ],
+      "date": "2019-06-28T22:19:39.865Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-emitter",
+        "homepage": "https://github.com/feross/re-emitter",
+        "repository": "https://github.com/feross/re-emitter",
+        "bugs": "https://github.com/feross/re-emitter/issues"
+      },
+      "author": {
+        "name": "Raynos",
+        "email": "raynos2@gmail.com"
+      },
+      "publisher": {
+        "username": "feross",
+        "email": "feross@feross.org"
+      },
+      "maintainers": [
+        {
+          "username": "feross",
+          "email": "feross@feross.org"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.7054951223431378,
+      "detail": {
+        "quality": 0.968212750414504,
+        "popularity": 0.18590868793594073,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 8.897661,
+    "highlight": "<em>re</em>-emitter"
+  },
+  {
+    "package": {
+      "name": "re-carousel",
+      "scope": "unscoped",
+      "version": "2.4.0",
+      "description": "Minimal carousel component for React",
+      "date": "2019-08-02T18:26:47.073Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-carousel",
+        "homepage": "https://amio.github.io/re-carousel",
+        "repository": "https://github.com/amio/re-carousel",
+        "bugs": "https://github.com/amio/re-carousel/issues"
+      },
+      "publisher": {
+        "username": "amio",
+        "email": "amio.cn@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "amio",
+          "email": "amio.cn@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6820440136250527,
+      "detail": {
+        "quality": 0.9505557503525874,
+        "popularity": 0.13404009165162595,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 8.585317,
+    "highlight": "<em>re</em>-carousel"
+  },
+  {
+    "package": {
+      "name": "re-debouncer",
+      "scope": "unscoped",
+      "version": "2.1.0",
+      "description": "Simple debouncer for ReasonML",
+      "keywords": [
+        "react",
+        "reason",
+        "reason-react",
+        "reasonml",
+        "ocaml",
+        "bucklescript",
+        "debounce",
+        "debouncer"
+      ],
+      "date": "2019-12-24T11:04:20.502Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-debouncer",
+        "homepage": "https://github.com/alexfedoseev/re-debouncer#readme",
+        "repository": "https://github.com/alexfedoseev/re-debouncer",
+        "bugs": "https://github.com/alexfedoseev/re-debouncer/issues"
+      },
+      "author": {
+        "name": "Alex Fedoseev",
+        "email": "alex.fedoseev@gmail.com",
+        "username": "alex.fedoseev"
+      },
+      "publisher": {
+        "username": "alex.fedoseev",
+        "email": "alex.fedoseev@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "alex.fedoseev",
+          "email": "alex.fedoseev@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6688790956177664,
+      "detail": {
+        "quality": 0.961841397329834,
+        "popularity": 0.08675262850745362,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 8.404339,
+    "highlight": "<em>re</em>-debouncer"
+  },
+  {
+    "package": {
+      "name": "re-classnames",
+      "scope": "unscoped",
+      "version": "5.0.1",
+      "description": "Reimplementation of classnames in ReasonML",
+      "keywords": [
+        "react",
+        "reason",
+        "reason-react",
+        "reasonml",
+        "ocaml",
+        "bucklescript",
+        "classnames"
+      ],
+      "date": "2020-06-08T13:03:52.965Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-classnames",
+        "homepage": "https://github.com/MinimaHQ/re-classnames#readme",
+        "repository": "https://github.com/MinimaHQ/re-classnames",
+        "bugs": "https://github.com/MinimaHQ/re-classnames/issues"
+      },
+      "author": {
+        "name": "Alex Fedoseev",
+        "email": "alex.fedoseev@gmail.com",
+        "username": "alex.fedoseev"
+      },
+      "publisher": {
+        "username": "alex.fedoseev",
+        "email": "alex.fedoseev@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "alex.fedoseev",
+          "email": "alex.fedoseev@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6698517590972558,
+      "detail": {
+        "quality": 0.923365112325886,
+        "popularity": 0.12243040804634744,
+        "maintenance": 0.9999759502379097
+      }
+    },
+    "searchScore": 8.402184,
+    "highlight": "<em>re</em>-classnames"
+  },
+  {
+    "package": {
+      "name": "re-reduced",
+      "scope": "unscoped",
+      "version": "2.4.1",
+      "description": "![# Re-reduced](/docs/assets/logo-positive.png)",
+      "keywords": [
+        "redux",
+        "higher-order-reducer",
+        "react",
+        "immutable",
+        "functional programming"
+      ],
+      "date": "2020-04-14T06:13:31.014Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-reduced",
+        "homepage": "https://github.com/alanrsoares/re-reduced#readme",
+        "repository": "https://github.com/alanrsoares/re-reduced",
+        "bugs": "https://github.com/alanrsoares/re-reduced/issues"
+      },
+      "author": {
+        "name": "Alan Soares",
+        "email": "alanrsoars@gmail.com",
+        "username": "alanrsoares"
+      },
+      "publisher": {
+        "username": "alanrsoares",
+        "email": "alanrsoars@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "alanrsoares",
+          "email": "alanrsoars@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6446811464601871,
+      "detail": {
+        "quality": 0.9198357953424493,
+        "popularity": 0.053528431157941134,
+        "maintenance": 0.9999870198633514
+      }
+    },
+    "searchScore": 8.305274,
+    "highlight": "<em>re</em>-<em>re</em>duced"
+  },
+  {
+    "package": {
+      "name": "re-blossom",
+      "scope": "unscoped",
+      "version": "1.1.0",
+      "description": "A Reason implementation of the blossom maximum-matching algorithm",
+      "keywords": [
+        "BuckleScript",
+        "Reason",
+        "ReasonML",
+        "Maximum Weighted Matching",
+        "Maximum Matching",
+        "Matching",
+        "Blossom algorithm"
+      ],
+      "date": "2020-05-09T18:06:42.405Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-blossom",
+        "homepage": "https://johnridesa.bike/re-blossom/",
+        "repository": "https://github.com/johnridesabike/re-blossom",
+        "bugs": "https://github.com/johnridesabike/re-blossom/issues"
+      },
+      "author": {
+        "name": "John Jackson",
+        "email": "johnbicyclejackson@icloud.com",
+        "url": "https://johnridesa.bike/",
+        "username": "johnridesabike"
+      },
+      "publisher": {
+        "username": "johnridesabike",
+        "email": "johnbicyclejackson@icloud.com"
+      },
+      "maintainers": [
+        {
+          "username": "johnridesabike",
+          "email": "johnbicyclejackson@icloud.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6563115844481141,
+      "detail": {
+        "quality": 0.9775446138241299,
+        "popularity": 0.0372935524248635,
+        "maintenance": 0.9999870198633514
+      }
+    },
+    "searchScore": 8.277361,
+    "highlight": "<em>re</em>-blossom"
+  },
+  {
+    "package": {
+      "name": "re-mapper",
+      "scope": "unscoped",
+      "version": "1.0.1",
+      "description": "JavaScript object mapper",
+      "keywords": ["map", "mapper", "json", "sql"],
+      "date": "2016-12-27T00:43:19.577Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-mapper",
+        "homepage": "https://github.com/socsieng/re-mapper#readme",
+        "repository": "https://github.com/socsieng/re-mapper",
+        "bugs": "https://github.com/socsieng/re-mapper/issues"
+      },
+      "author": {
+        "name": "socsieng@gmail.com"
+      },
+      "publisher": {
+        "username": "socsieng",
+        "email": "socsieng@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "socsieng",
+          "email": "socsieng@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6528817142217873,
+      "detail": {
+        "quality": 0.9851727993191498,
+        "popularity": 0.021078138267396095,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 8.251047,
+    "highlight": "<em>re</em>-mapper"
+  },
+  {
+    "package": {
+      "name": "remotedata-re",
+      "scope": "unscoped",
+      "version": "1.0.1",
+      "description": "Tools for fetching data from remote sources in Reason",
+      "date": "2020-08-02T18:05:27.694Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/remotedata-re",
+        "homepage": "https://github.com/lrosa007/remotedata-re#readme",
+        "repository": "https://github.com/lrosa007/remotedata-re",
+        "bugs": "https://github.com/lrosa007/remotedata-re/issues"
+      },
+      "author": {
+        "name": "Lucas Rosa",
+        "email": "lucas@blubeta.com"
+      },
+      "publisher": {
+        "username": "lrosa007",
+        "email": "lucas@consys.io"
+      },
+      "maintainers": [
+        {
+          "username": "lrosa007",
+          "email": "lucas@consys.io"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.639896783734196,
+      "detail": {
+        "quality": 0.9012971803422692,
+        "popularity": 0.05579725127457259,
+        "maintenance": 0.9999388333868995
+      }
+    },
+    "searchScore": 8.205578,
+    "highlight": "<em>re</em>motedata-<em>re</em>"
+  },
+  {
+    "package": {
+      "name": "re-rxjs",
+      "scope": "unscoped",
+      "version": "0.2.0-alpha.6",
+      "description": "<div align=\"center\">   <h1>Re-RxJS</h1>",
+      "date": "2020-06-29T01:06:33.735Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-rxjs",
+        "homepage": "https://github.com/re-rxjs/re-rxjs#readme",
+        "repository": "https://github.com/re-rxjs/re-rxjs",
+        "bugs": "https://github.com/re-rxjs/re-rxjs/issues"
+      },
+      "author": {
+        "name": "Josep M Sobrepere"
+      },
+      "publisher": {
+        "username": "josepot",
+        "email": "josep@sbrpr.com"
+      },
+      "maintainers": [
+        {
+          "username": "josepot",
+          "email": "josep@sbrpr.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.6395961781573423,
+      "detail": {
+        "quality": 0.8845501277707921,
+        "popularity": 0.0692318280745849,
+        "maintenance": 1
+      }
+    },
+    "searchScore": 8.147618,
+    "highlight": "<em>re</em>-rxjs"
+  },
+  {
+    "package": {
+      "name": "re-flags",
+      "scope": "unscoped",
+      "version": "1.0.0",
+      "description": "Get the flags from a RegExp",
+      "date": "2016-02-23T18:07:12.280Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-flags",
+        "homepage": "https://github.com/evanlucas/re-flags",
+        "repository": "https://github.com/evanlucas/re-flags",
+        "bugs": "https://github.com/evanlucas/re-flags/issues"
+      },
+      "author": {
+        "name": "Evan Lucas",
+        "email": "evanlucas@me.com",
+        "username": "evanlucas"
+      },
+      "publisher": {
+        "username": "evanlucas",
+        "email": "evanlucas@me.com"
+      },
+      "maintainers": [
+        {
+          "username": "evanlucas",
+          "email": "evanlucas@me.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6412617584490142,
+      "detail": {
+        "quality": 0.953326419428466,
+        "popularity": 0.015175161680059189,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 8.122001,
+    "highlight": "<em>re</em>-flags"
+  },
+  {
+    "package": {
+      "name": "re-formality",
+      "scope": "unscoped",
+      "version": "4.0.0-beta.8",
+      "description": "Form validation tool for reason-react",
+      "keywords": [
+        "react",
+        "reason",
+        "reason-react",
+        "reasonml",
+        "ocaml",
+        "bucklescript",
+        "forms",
+        "validation"
+      ],
+      "date": "2020-07-17T09:39:08.710Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-formality",
+        "homepage": "https://github.com/MinimaHQ/re-formality#readme",
+        "repository": "https://github.com/MinimaHQ/re-formality",
+        "bugs": "https://github.com/MinimaHQ/re-formality/issues"
+      },
+      "author": {
+        "name": "Alex Fedoseev",
+        "email": "alex.fedoseev@gmail.com",
+        "username": "alex.fedoseev"
+      },
+      "publisher": {
+        "username": "alex.fedoseev",
+        "email": "alex.fedoseev@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "alex.fedoseev",
+          "email": "alex.fedoseev@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6400124435381447,
+      "detail": {
+        "quality": 0.8506106187480807,
+        "popularity": 0.10212484489043391,
+        "maintenance": 0.997387320577339
+      }
+    },
+    "searchScore": 8.0416355,
+    "highlight": "<em>re</em>-formality"
+  },
+  {
+    "package": {
+      "name": "re-slide",
+      "scope": "unscoped",
+      "version": "1.2.2",
+      "description": "React Sliding Layout Component",
+      "keywords": ["react", "carousel", "layout", "slide", "component"],
+      "date": "2019-11-01T06:05:48.078Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-slide",
+        "homepage": "http://lerp-io.github.io/re-slide",
+        "repository": "https://github.com/lerp-io/re-slide",
+        "bugs": "https://github.com/lerp-io/re-slide/issues"
+      },
+      "author": {
+        "name": "lerp-io"
+      },
+      "publisher": {
+        "username": "arxii",
+        "email": "arxii@lerp.io"
+      },
+      "maintainers": [
+        {
+          "username": "arxii",
+          "email": "arxii@lerp.io"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.633839692975303,
+      "detail": {
+        "quality": 0.9413819694388504,
+        "popularity": 0.004207360317697498,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 8.027995,
+    "highlight": "<em>re</em>-slide"
+  },
+  {
+    "package": {
+      "name": "re-build",
+      "scope": "unscoped",
+      "version": "1.0.0",
+      "description": "Building regular expressions with natural language",
+      "keywords": [
+        "regex",
+        "regular-expression",
+        "regexp",
+        "composition",
+        "builder"
+      ],
+      "date": "2016-07-25T22:44:42.850Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-build",
+        "homepage": "https://github.com/MaxArt2501/re-build",
+        "repository": "https://github.com/MaxArt2501/re-build",
+        "bugs": "https://github.com/MaxArt2501/re-build/issues"
+      },
+      "author": {
+        "name": "Massimo Artizzu",
+        "email": "maxart.x@gmail.com",
+        "username": "maxart"
+      },
+      "publisher": {
+        "username": "maxart",
+        "email": "maxart.x@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "maxart",
+          "email": "maxart.x@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6307318534511528,
+      "detail": {
+        "quality": 0.8175748026198637,
+        "popularity": 0.10141758921138934,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 7.9886327,
+    "highlight": "<em>re</em>-build"
+  },
+  {
+    "package": {
+      "name": "requi-re",
+      "scope": "unscoped",
+      "version": "1.1.17",
+      "description": "Re-Require a module bypassing the cache when in a development environment (using NODE_ENV).",
+      "keywords": [
+        "require-uncached",
+        "require",
+        "cache",
+        "uncache",
+        "uncached",
+        "module",
+        "fresh",
+        "bypass"
+      ],
+      "date": "2017-01-15T13:47:26.523Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/requi-re",
+        "homepage": "https://github.com/safebyte/requi-re",
+        "repository": "https://github.com/safebyte/requi-re",
+        "bugs": "https://github.com/safebyte/requi-re/issues"
+      },
+      "author": {
+        "name": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "url": "sindresorhus.com"
+      },
+      "publisher": {
+        "username": "safebyte",
+        "email": "service@safebyte.com"
+      },
+      "maintainers": [
+        {
+          "username": "safebyte",
+          "email": "service@safebyte.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.616438669743474,
+      "detail": {
+        "quality": 0.864216914044428,
+        "popularity": 0.020631627136262525,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 7.968578,
+    "highlight": "<em>re</em>qui-<em>re</em>"
+  },
+  {
+    "package": {
+      "name": "re-flex",
+      "scope": "unscoped",
+      "version": "1.0.1",
+      "description": "Flexbox components for React",
+      "keywords": ["react", "reactjs", "react component", "re-flex"],
+      "date": "2017-09-11T17:03:09.526Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-flex",
+        "homepage": "https://github.com/Opentrace/re-flex",
+        "repository": "https://github.com/Opentrace/re-flex",
+        "bugs": "https://github.com/Opentrace/re-flex/issues"
+      },
+      "author": {
+        "name": "Mark Rabey",
+        "email": "mark@markrabey.com",
+        "username": "markrabey"
+      },
+      "publisher": {
+        "username": "markrabey",
+        "email": "mark@markrabey.com"
+      },
+      "maintainers": [
+        {
+          "username": "markrabey",
+          "email": "mark@markrabey.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6217978242146902,
+      "detail": {
+        "quality": 0.8535438735364305,
+        "popularity": 0.045014639721402225,
+        "maintenance": 0.9999415378607726
+      }
+    },
+    "searchScore": 7.8939915,
+    "highlight": "<em>re</em>-flex"
+  },
+  {
+    "package": {
+      "name": "re-bars",
+      "scope": "unscoped",
+      "version": "0.0.1-beta.3.1.1",
+      "description": "Handlebars templates with re-render / watch blocks",
+      "date": "2020-08-07T19:52:23.285Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-bars",
+        "homepage": "https://dperrymorrow.github.io/re-bars",
+        "repository": "https://github.com/dperrymorrow/re-bars",
+        "bugs": "https://github.com/dperrymorrow/re-bars/issues"
+      },
+      "author": {
+        "name": "David Morrow"
+      },
+      "publisher": {
+        "username": "dperrymorrow",
+        "email": "dperrymorrow@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "dperrymorrow",
+          "email": "dperrymorrow@gmail.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.6198043887151639,
+      "detail": {
+        "quality": 0.8678093477214763,
+        "popularity": 0.02705032172487176,
+        "maintenance": 0.999982776557188
+      }
+    },
+    "searchScore": 7.868684,
+    "highlight": "<em>re</em>-bars"
+  },
+  {
+    "package": {
+      "name": "re-telefonnummer",
+      "scope": "unscoped",
+      "version": "2.0.0",
+      "description": "![npm](https://img.shields.io/npm/v/bs-telefonnummer.svg) [![Build Status](https://travis-ci.com/believer/bs-telefonnummer.svg?branch=master)](https://travis-ci.com/believer/bs-telefonnummer) [![Test Coverage](https://api.codeclimate.com/v1/badges/ca9e96b",
+      "keywords": [
+        "BuckleScript",
+        "ReasonML",
+        "Phone number",
+        "Telefonnummer",
+        "Parser"
+      ],
+      "date": "2020-08-10T17:49:19.577Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-telefonnummer",
+        "homepage": "https://github.com/believer/re-telefonnummer#readme",
+        "repository": "https://github.com/believer/re-telefonnummer",
+        "bugs": "https://github.com/believer/re-telefonnummer/issues"
+      },
+      "author": {
+        "name": "believer",
+        "email": "rickard.laurin@gmail.com",
+        "username": "believer"
+      },
+      "publisher": {
+        "username": "believer",
+        "email": "rickard.laurin@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "believer",
+          "email": "rickard.laurin@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6220849347342741,
+      "detail": {
+        "quality": 0.8913965102741624,
+        "popularity": 0.013389838287871417,
+        "maintenance": 0.9999415378607726
+      }
+    },
+    "searchScore": 7.7673516,
+    "highlight": "<em>re</em>-telefonnummer"
+  },
+  {
+    "package": {
+      "name": "re-define",
+      "scope": "unscoped",
+      "version": "1.14.8",
+      "description": "Let's `re-define` something ... without any configuration ... just do the magic for me, yet another build tool.",
+      "keywords": [
+        "modules",
+        "CommonJS",
+        "AMD",
+        "Plain JS",
+        "converter",
+        "bundle",
+        "resolve",
+        "transform",
+        "ast",
+        "r.js",
+        "UMD"
+      ],
+      "date": "2015-04-27T17:43:56.411Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-define",
+        "homepage": "https://github.com/damianbaar/re-define",
+        "repository": "https://github.com/damianbaar/re-define",
+        "bugs": "https://github.com/damianbaar/re-define/issues"
+      },
+      "author": {
+        "name": "Damian Baar"
+      },
+      "publisher": {
+        "username": "damianbaar",
+        "email": "damian.baar@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "damianbaar",
+          "email": "damian.baar@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6067580930443031,
+      "detail": {
+        "quality": 0.7990702392200358,
+        "popularity": 0.04873566579149145,
+        "maintenance": 0.9999415378607726
+      }
+    },
+    "searchScore": 7.6681423,
+    "highlight": "<em>re</em>-define"
+  },
+  {
+    "package": {
+      "name": "re-fader",
+      "scope": "unscoped",
+      "version": "0.3.0",
+      "description": "Fader for React components.",
+      "date": "2019-12-22T19:51:17.206Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-fader",
+        "homepage": "https://github.com/kangasta/re-fader#readme",
+        "repository": "https://github.com/kangasta/re-fader",
+        "bugs": "https://github.com/kangasta/re-fader/issues"
+      },
+      "publisher": {
+        "username": "kangasta",
+        "email": "toni.ar.kangas@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "kangasta",
+          "email": "toni.ar.kangas@gmail.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.6028942551162819,
+      "detail": {
+        "quality": 0.8703526795343074,
+        "popularity": 0.015453122913926,
+        "maintenance": 0.9610853092460445
+      }
+    },
+    "searchScore": 7.636051,
+    "highlight": "<em>re</em>-fader"
+  },
+  {
+    "package": {
+      "name": "re-observe",
+      "scope": "unscoped",
+      "version": "0.0.1",
+      "description": "<div align=\"center\">   <h1>Re-RxJS</h1>",
+      "date": "2020-06-18T21:39:10.043Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-observe",
+        "homepage": "https://github.com/re-rxjs/re-rxjs#readme",
+        "repository": "https://github.com/re-rxjs/re-rxjs",
+        "bugs": "https://github.com/re-rxjs/re-rxjs/issues"
+      },
+      "author": {
+        "name": "Josep M Sobrepere"
+      },
+      "publisher": {
+        "username": "josepot",
+        "email": "josep@sbrpr.com"
+      },
+      "maintainers": [
+        {
+          "username": "josepot",
+          "email": "josep@sbrpr.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.6051202180963586,
+      "detail": {
+        "quality": 0.7850281109405355,
+        "popularity": 0.058279358598484585,
+        "maintenance": 0.9977543122992238
+      }
+    },
+    "searchScore": 7.631739,
+    "highlight": "<em>re</em>-observe"
+  },
+  {
+    "package": {
+      "name": "re-ducks",
+      "scope": "unscoped",
+      "version": "1.0.5",
+      "description": "Library to reduce common tasks for React apps based on re-ducks.",
+      "date": "2017-03-07T23:03:04.579Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-ducks",
+        "homepage": "https://github.com/rmariuzzo/re-ducks#readme",
+        "repository": "https://github.com/rmariuzzo/re-ducks",
+        "bugs": "https://github.com/rmariuzzo/re-ducks/issues"
+      },
+      "author": {
+        "name": "Rubens Mariuzzo",
+        "email": "rubens@mariuzzo.com",
+        "url": "https://github.com/rmariuzzo",
+        "username": "rmariuzzo"
+      },
+      "publisher": {
+        "username": "rmariuzzo",
+        "email": "rubens@mariuzzo.com"
+      },
+      "maintainers": [
+        {
+          "username": "rmariuzzo",
+          "email": "rubens@mariuzzo.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6000269846064875,
+      "detail": {
+        "quality": 0.8060719416803905,
+        "popularity": 0.023502468145999975,
+        "maintenance": 0.9999415378607726
+      }
+    },
+    "searchScore": 7.5997353,
+    "highlight": "<em>re</em>-ducks"
+  },
+  {
+    "package": {
+      "name": "re-quests",
+      "scope": "unscoped",
+      "version": "1.1.2",
+      "description": "Declarative Networking for React.",
+      "keywords": ["react", "networking", "http", "requests"],
+      "date": "2017-05-08T08:06:15.365Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-quests",
+        "homepage": "https://github.com/ankitpopli1891/re-quests#readme",
+        "repository": "https://github.com/ankitpopli1891/re-quests",
+        "bugs": "https://github.com/ankitpopli1891/re-quests/issues"
+      },
+      "author": {
+        "name": "Ankit Popli"
+      },
+      "publisher": {
+        "username": "ankitpopli",
+        "email": "ankitpopli1891@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "piranna",
+          "email": "piranna@gmail.com"
+        },
+        {
+          "username": "ankitpopli",
+          "email": "ankitpopli1891@gmail.com"
+        },
+        {
+          "username": "amoghbanta",
+          "email": "amoghbanta@gmail.com"
+        },
+        {
+          "username": "anandabhi",
+          "email": "oct94abhi@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6003101039912832,
+      "detail": {
+        "quality": 0.7884413187565821,
+        "popularity": 0.039500520948156544,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 7.586653,
+    "highlight": "<em>re</em>-quests"
+  },
+  {
+    "package": {
+      "name": "re-route",
+      "scope": "unscoped",
+      "version": "1.0.0",
+      "description": "generate regex to match urls with place holder strings. /url/:hi/:foo",
+      "keywords": ["url", "regex", "patch", "slug"],
+      "date": "2016-04-01T13:53:49.313Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-route",
+        "homepage": "https://github.com/soldair/re-route#readme",
+        "repository": "https://github.com/soldair/re-route",
+        "bugs": "https://github.com/soldair/re-route/issues"
+      },
+      "author": {
+        "name": "Ryan Day",
+        "email": "soldair@gmail.com",
+        "username": "soldair"
+      },
+      "publisher": {
+        "username": "soldair",
+        "email": "soldair@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "soldair",
+          "email": "soldair@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.5954704990346664,
+      "detail": {
+        "quality": 0.7979538714686287,
+        "popularity": 0.01751946160464026,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 7.5677843,
+    "highlight": "<em>re</em>-route"
+  },
+  {
+    "package": {
+      "name": "re-containers",
+      "scope": "unscoped",
+      "version": "6.6.6",
+      "description": "Utilitary containers for ReasonReact",
+      "date": "2020-04-03T18:30:58.598Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-containers",
+        "homepage": "https://github.com/Astrocoders/recontainers#readme",
+        "repository": "https://github.com/Astrocoders/recontainers",
+        "bugs": "https://github.com/Astrocoders/recontainers/issues"
+      },
+      "author": {
+        "name": "Astrocoders",
+        "email": "hello@astrocoders.com"
+      },
+      "publisher": {
+        "username": "gabrielrubens",
+        "email": "grsabreu@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "gabrielrubens",
+          "email": "grsabreu@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6025625468120133,
+      "detail": {
+        "quality": 0.7479702173720445,
+        "popularity": 0.08062558733698906,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 7.5581517,
+    "highlight": "<em>re</em>-containers"
+  },
+  {
+    "package": {
+      "name": "re-create-actions",
+      "scope": "unscoped",
+      "version": "1.0.1",
+      "description": "Group of utilities for creating Flux standard actions.",
+      "date": "2018-02-20T18:19:39.135Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-create-actions",
+        "homepage": "https://github.com/reactor-studio/re-create-actions#readme",
+        "repository": "https://github.com/reactor-studio/re-create-actions",
+        "bugs": "https://github.com/reactor-studio/re-create-actions/issues"
+      },
+      "author": {
+        "name": "Vedran Blazenka",
+        "email": "blazenka.vedran@gmail.com",
+        "username": "vblazenka"
+      },
+      "publisher": {
+        "username": "dinodsaurus",
+        "email": "dinotrojak@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "dinodsaurus",
+          "email": "dinotrojak@gmail.com"
+        },
+        {
+          "username": "vblazenka",
+          "email": "blazenka.vedran@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6435175626749304,
+      "detail": {
+        "quality": 0.9449004157336606,
+        "popularity": 0.028765427724462632,
+        "maintenance": 0.9999415378607726
+      }
+    },
+    "searchScore": 7.487567,
+    "highlight": "<em>re</em>-create-actions"
+  },
+  {
+    "package": {
+      "name": "re-format",
+      "scope": "unscoped",
+      "version": "1.1.6",
+      "description": "A fast string formatting library",
+      "keywords": ["string", "format", "strf"],
+      "date": "2017-04-25T18:16:31.342Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-format",
+        "homepage": "https://github.com/oshoghi/re-format#readme",
+        "repository": "https://github.com/oshoghi/re-format",
+        "bugs": "https://github.com/oshoghi/re-format/issues"
+      },
+      "author": {
+        "name": "Okhtay Shoghi"
+      },
+      "publisher": {
+        "username": "oshoghi",
+        "email": "oshoghi@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "oshoghi",
+          "email": "oshoghi@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.5922856226886051,
+      "detail": {
+        "quality": 0.7932521692783319,
+        "popularity": 0.012449845350433562,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 7.4852405,
+    "highlight": "<em>re</em>-format"
+  },
+  {
+    "package": {
+      "name": "react-re-super-tabs",
+      "scope": "unscoped",
+      "version": "1.1.0",
+      "description": "React reusable tab component",
+      "keywords": ["react, component, tab"],
+      "date": "2018-05-28T13:12:32.695Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-re-super-tabs",
+        "homepage": "https://github.com/czosnek7/react-re-super-tabs#read",
+        "repository": "https://github.com/czosnek7/react-re-super-tabs",
+        "bugs": "https://github.com/czosnek7/react-re-super-tabs/issues"
+      },
+      "author": {
+        "name": "Bartłomiej Potaczek"
+      },
+      "publisher": {
+        "username": "czosnek7",
+        "email": "bartlomiej.potaczek7@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "czosnek7",
+          "email": "bartlomiej.potaczek7@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6577792039687695,
+      "detail": {
+        "quality": 0.9825674646755059,
+        "popularity": 0.037304110096182994,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 7.40856,
+    "highlight": "<em>re</em>act-<em>re</em>-super-tabs"
+  },
+  {
+    "package": {
+      "name": "re-template-tag",
+      "scope": "unscoped",
+      "version": "2.0.1",
+      "description": "This package provides the template tag `re` for composing regular expressions.",
+      "date": "2017-08-05T19:48:47.256Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-template-tag",
+        "homepage": "https://github.com/rauschma/re-template-tag#readme",
+        "repository": "https://github.com/rauschma/re-template-tag",
+        "bugs": "https://github.com/rauschma/re-template-tag/issues"
+      },
+      "author": {
+        "name": "Axel Rauschmayer"
+      },
+      "publisher": {
+        "username": "rauschma",
+        "email": "axel@rauschma.de"
+      },
+      "maintainers": [
+        {
+          "username": "rauschma",
+          "email": "axel@rauschma.de"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6314129636089354,
+      "detail": {
+        "quality": 0.8175748026198637,
+        "popularity": 0.10339427654434995,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 7.3953032,
+    "highlight": "<em>re</em>-template-tag"
+  },
+  {
+    "package": {
+      "name": "re-cardswipe",
+      "scope": "unscoped",
+      "version": "0.0.6",
+      "description": "[![Build Status](https://travis-ci.org/pizza3/re-swipe.svg?branch=master)](https://travis-ci.org/pizza3/re-swipe)",
+      "date": "2019-12-08T12:05:35.216Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-cardswipe",
+        "homepage": "https://github.com/pizza3/re-swipe#readme",
+        "repository": "https://github.com/pizza3/re-swipe",
+        "bugs": "https://github.com/pizza3/re-swipe/issues"
+      },
+      "publisher": {
+        "username": "pizza3",
+        "email": "yugam.dhuriya@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "pizza3",
+          "email": "yugam.dhuriya@gmail.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.5845029740458331,
+      "detail": {
+        "quality": 0.7913542419495737,
+        "popularity": 0.027068835993497995,
+        "maintenance": 0.9646360253235333
+      }
+    },
+    "searchScore": 7.344169,
+    "highlight": "<em>re</em>-cardswipe"
+  },
+  {
+    "package": {
+      "name": "re-avataaars",
+      "scope": "unscoped",
+      "version": "0.1.1",
+      "description": "Avataaars as a API",
+      "date": "2020-03-14T07:59:22.248Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-avataaars",
+        "homepage": "https://github.com/ItsKerolos/avataaars#readme",
+        "repository": "https://github.com/ItsKerolos/avataaars",
+        "bugs": "https://github.com/ItsKerolos/avataaars/issues"
+      },
+      "author": {
+        "name": "Kerolos Zaki"
+      },
+      "publisher": {
+        "username": "ker0olos",
+        "email": "kerolos4zaki@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "ker0olos",
+          "email": "kerolos4zaki@gmail.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.5819215478630507,
+      "detail": {
+        "quality": 0.7497002701731326,
+        "popularity": 0.023769367678206144,
+        "maintenance": 0.9962633946392537
+      }
+    },
+    "searchScore": 7.311734,
+    "highlight": "<em>re</em>-avataaars"
+  },
+  {
+    "package": {
+      "name": "re-chartjs-wrapper",
+      "scope": "unscoped",
+      "version": "0.3.2",
+      "description": "React wrapper for Chart.js charts.",
+      "date": "2020-05-06T22:21:25.870Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-chartjs-wrapper",
+        "homepage": "https://github.com/kangasta/re-chartjs-wrapper#readme",
+        "repository": "https://github.com/kangasta/re-chartjs-wrapper",
+        "bugs": "https://github.com/kangasta/re-chartjs-wrapper/issues"
+      },
+      "publisher": {
+        "username": "kangasta",
+        "email": "toni.ar.kangas@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "kangasta",
+          "email": "toni.ar.kangas@gmail.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.626476747861036,
+      "detail": {
+        "quality": 0.890461172675498,
+        "popularity": 0.02707500793682166,
+        "maintenance": 0.9996061236585685
+      }
+    },
+    "searchScore": 7.278588,
+    "highlight": "<em>re</em>-chartjs-wrapper"
+  },
+  {
+    "package": {
+      "name": "re-write-js",
+      "scope": "unscoped",
+      "version": "2.0.1",
+      "description": "Another translator generator (for, e.g., internationalization)",
+      "keywords": ["i18n", "translator", "template"],
+      "date": "2018-06-12T17:24:42.915Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-write-js",
+        "homepage": "https://github.com/fraczak/re-write-js#readme",
+        "repository": "https://github.com/fraczak/re-write-js",
+        "bugs": "https://github.com/fraczak/re-write-js/issues"
+      },
+      "author": {
+        "name": "Wojciech Fraczak"
+      },
+      "publisher": {
+        "username": "fraczak",
+        "email": "fraczak@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "fraczak",
+          "email": "fraczak@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6025558098185491,
+      "detail": {
+        "quality": 0.8060719416803905,
+        "popularity": 0.030804860805652062,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 7.0868473,
+    "highlight": "<em>re</em>-write-js"
+  },
+  {
+    "package": {
+      "name": "re-color-contrast",
+      "scope": "unscoped",
+      "version": "0.1.2",
+      "description": "Calculate color contrast of two colors, by using WCAG standard calculation.",
+      "keywords": ["BuckleScript, contrast, wcag"],
+      "date": "2020-03-14T15:34:52.719Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-color-contrast",
+        "homepage": "https://github.com/mikaello/re-color-contrast",
+        "repository": "https://github.com/mikaello/re-color-contrast",
+        "bugs": "https://github.com/mikaello/re-color-contrast/issues"
+      },
+      "author": {
+        "name": "mikaello"
+      },
+      "publisher": {
+        "username": "mikaello",
+        "email": "mikaello@student.matnat.uio.no"
+      },
+      "maintainers": [
+        {
+          "username": "mikaello",
+          "email": "mikaello@student.matnat.uio.no"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.598605940426143,
+      "detail": {
+        "quality": 0.8266820827169769,
+        "popularity": 0.021151193204942888,
+        "maintenance": 0.980566851398057
+      }
+    },
+    "searchScore": 6.9888315,
+    "highlight": "<em>re</em>-color-contrast"
+  },
+  {
+    "package": {
+      "name": "re-dnd",
+      "scope": "unscoped",
+      "version": "2.0.0",
+      "description": "Drag-n-drop for reason-react",
+      "keywords": [
+        "react",
+        "reason",
+        "reason-react",
+        "reasonml",
+        "ocaml",
+        "bucklescript",
+        "ui",
+        "dnd",
+        "drag-n-drop"
+      ],
+      "date": "2020-05-07T12:19:51.419Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-dnd",
+        "homepage": "https://github.com/MinimaHQ/re-dnd#readme",
+        "repository": "https://github.com/MinimaHQ/re-dnd",
+        "bugs": "https://github.com/MinimaHQ/re-dnd/issues"
+      },
+      "author": {
+        "name": "Alex Fedoseev",
+        "email": "alex.fedoseev@gmail.com",
+        "username": "alex.fedoseev"
+      },
+      "publisher": {
+        "username": "alex.fedoseev",
+        "email": "alex.fedoseev@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "alex.fedoseev",
+          "email": "alex.fedoseev@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.5474337194670531,
+      "detail": {
+        "quality": 0.5714442825511719,
+        "popularity": 0.0743919378871264,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 6.9674325,
+    "highlight": "<em>re</em>-dnd"
+  },
+  {
+    "package": {
+      "name": "react-redux",
+      "scope": "unscoped",
+      "version": "7.2.1",
+      "description": "Official React bindings for Redux",
+      "keywords": ["react", "reactjs", "redux"],
+      "date": "2020-07-25T19:15:01.201Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-redux",
+        "homepage": "https://github.com/reduxjs/react-redux",
+        "repository": "https://github.com/reduxjs/react-redux",
+        "bugs": "https://github.com/reduxjs/react-redux/issues"
+      },
+      "author": {
+        "name": "Dan Abramov",
+        "email": "dan.abramov@me.com",
+        "url": "https://github.com/gaearon"
+      },
+      "publisher": {
+        "username": "acemarke",
+        "email": "mark.erikson@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "timdorr",
+          "email": "timdorr@timdorr.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.9244481005400054,
+      "detail": {
+        "quality": 0.9782651897572331,
+        "popularity": 0.8027815547221029,
+        "maintenance": 0.9999857127431413
+      }
+    },
+    "searchScore": 6.9461284,
+    "highlight": "<em>re</em>act-<em>re</em>dux"
+  },
+  {
+    "package": {
+      "name": "redux",
+      "scope": "unscoped",
+      "version": "4.0.5",
+      "description": "Predictable state container for JavaScript apps",
+      "keywords": [
+        "redux",
+        "reducer",
+        "state",
+        "predictable",
+        "functional",
+        "immutable",
+        "hot",
+        "live",
+        "replay",
+        "flux",
+        "elm"
+      ],
+      "date": "2019-12-24T02:23:00.903Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/redux",
+        "homepage": "http://redux.js.org",
+        "repository": "https://github.com/reduxjs/redux",
+        "bugs": "https://github.com/reduxjs/redux/issues"
+      },
+      "publisher": {
+        "username": "timdorr",
+        "email": "timdorr@timdorr.com"
+      },
+      "maintainers": [
+        {
+          "username": "acdlite",
+          "email": "acdlite@me.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "timdorr",
+          "email": "timdorr@timdorr.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.9336811377888291,
+      "detail": {
+        "quality": 0.9798736938498661,
+        "popularity": 0.8595418080034236,
+        "maintenance": 0.9682268480933458
+      }
+    },
+    "searchScore": 6.9301567,
+    "highlight": "<em>re</em>dux"
+  },
+  {
+    "package": {
+      "name": "react",
+      "scope": "unscoped",
+      "version": "16.13.1",
+      "description": "React is a JavaScript library for building user interfaces.",
+      "keywords": ["react"],
+      "date": "2020-03-19T19:53:13.309Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react",
+        "homepage": "https://reactjs.org/",
+        "repository": "https://github.com/facebook/react",
+        "bugs": "https://github.com/facebook/react/issues"
+      },
+      "publisher": {
+        "username": "acdlite",
+        "email": "npm@andrewclark.io"
+      },
+      "maintainers": [
+        {
+          "username": "acdlite",
+          "email": "npm@andrewclark.io"
+        },
+        {
+          "username": "brianvaughn",
+          "email": "briandavidvaughn@gmail.com"
+        },
+        {
+          "username": "fb",
+          "email": "opensource+npm@fb.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "lunaruan",
+          "email": "lunaris.ruan@gmail.com"
+        },
+        {
+          "username": "sebmarkbage",
+          "email": "sebastian@calyptus.eu"
+        },
+        {
+          "username": "sophiebits",
+          "email": "npm@sophiebits.com"
+        },
+        {
+          "username": "trueadm",
+          "email": "dg@domgan.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.9321005247976528,
+      "detail": {
+        "quality": 0.874609154481925,
+        "popularity": 0.9387744786889827,
+        "maintenance": 0.9747048883198044
+      }
+    },
+    "searchScore": 6.918425,
+    "highlight": "<em>re</em>act"
+  },
+  {
+    "package": {
+      "name": "react-native-re-slider",
+      "scope": "unscoped",
+      "version": "2.0.0",
+      "description": "Slider component for react-native using reanimated",
+      "date": "2019-12-12T09:59:50.038Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-native-re-slider",
+        "homepage": "https://github.com/ken0x0a/react-native-reanimated-slider#readme",
+        "repository": "https://github.com/ken0x0a/react-native-reanimated-slider",
+        "bugs": "https://github.com/ken0x0a/react-native-reanimated-slider/issues"
+      },
+      "author": {
+        "name": "Ken Owada"
+      },
+      "publisher": {
+        "username": "ken0x0a",
+        "email": "ken0x0a+npm@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "ken0x0a",
+          "email": "ken0x0a+npm@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.6152376352787394,
+      "detail": {
+        "quality": 0.8390462566083282,
+        "popularity": 0.03876151445719393,
+        "maintenance": 0.9998777949606376
+      }
+    },
+    "searchScore": 6.9014406,
+    "highlight": "<em>re</em>act-native-<em>re</em>-slider"
+  },
+  {
+    "package": {
+      "name": "react-dom",
+      "scope": "unscoped",
+      "version": "16.13.1",
+      "description": "React package for working with the DOM.",
+      "keywords": ["react"],
+      "date": "2020-03-19T19:53:23.004Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-dom",
+        "homepage": "https://reactjs.org/",
+        "repository": "https://github.com/facebook/react",
+        "bugs": "https://github.com/facebook/react/issues"
+      },
+      "publisher": {
+        "username": "acdlite",
+        "email": "npm@andrewclark.io"
+      },
+      "maintainers": [
+        {
+          "username": "acdlite",
+          "email": "npm@andrewclark.io"
+        },
+        {
+          "username": "brianvaughn",
+          "email": "briandavidvaughn@gmail.com"
+        },
+        {
+          "username": "fb",
+          "email": "opensource+npm@fb.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "lunaruan",
+          "email": "lunaris.ruan@gmail.com"
+        },
+        {
+          "username": "sebmarkbage",
+          "email": "sebastian@calyptus.eu"
+        },
+        {
+          "username": "sophiebits",
+          "email": "npm@sophiebits.com"
+        },
+        {
+          "username": "trueadm",
+          "email": "dg@domgan.com"
+        },
+        {
+          "username": "zpao",
+          "email": "paul@oshannessy.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.9367218401780109,
+      "detail": {
+        "quality": 0.9001318218692449,
+        "popularity": 0.9300425486746051,
+        "maintenance": 0.9747640045175019
+      }
+    },
+    "searchScore": 6.828315,
+    "highlight": "<em>re</em>act-dom"
+  },
+  {
+    "package": {
+      "name": "re-az-keyvault",
+      "scope": "unscoped",
+      "version": "0.1.3",
+      "description": "Make request to the Azure Key Vault REST API.",
+      "keywords": ["Azure", "Key Vault"],
+      "date": "2020-06-23T18:54:22.838Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-az-keyvault",
+        "homepage": "https://github.com/RedeployAB/re-az-keyvault#readme",
+        "repository": "https://github.com/RedeployAB/re-az-keyvault",
+        "bugs": "https://github.com/RedeployAB/re-az-keyvault/issues"
+      },
+      "author": {
+        "name": "Karl Wallenius",
+        "email": "karl.wallenius@redeploy.se",
+        "url": "https://redeploy.se/"
+      },
+      "publisher": {
+        "username": "karlgw",
+        "email": "karl.wallenius@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "karlgw",
+          "email": "karl.wallenius@gmail.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.5788344580183072,
+      "detail": {
+        "quality": 0.740662137877828,
+        "popularity": 0.030136712674473803,
+        "maintenance": 0.9888227634825515
+      }
+    },
+    "searchScore": 6.7681513,
+    "highlight": "<em>re</em>-az-keyvault"
+  },
+  {
+    "package": {
+      "name": "@rejs/re-future",
+      "scope": "rejs",
+      "version": "0.2.3",
+      "description": "Future and ResultFuture library for ReasonML",
+      "keywords": ["Reason", "Future", "ResultFuture"],
+      "date": "2020-03-29T12:53:36.688Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/%40rejs%2Fre-future",
+        "homepage": "https://github.com/seprich/re-future#readme",
+        "repository": "https://github.com/seprich/re-future",
+        "bugs": "https://github.com/seprich/re-future/issues"
+      },
+      "author": {
+        "name": "Jussi Seppälä",
+        "email": "seprich@users.noreply.github.com"
+      },
+      "publisher": {
+        "username": "seprich",
+        "email": "richard.seppala@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "seprich",
+          "email": "richard.seppala@gmail.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.560998157724165,
+      "detail": {
+        "quality": 0.8782270921623293,
+        "popularity": 0.022413541413207255,
+        "maintenance": 0.8276722588024106
+      }
+    },
+    "searchScore": 6.714701,
+    "highlight": "@<em>re</em>js/<em>re</em>-future"
+  },
+  {
+    "package": {
+      "name": "re-discord",
+      "scope": "unscoped",
+      "version": "1.1.3",
+      "description": "Native Discord API for creating bots using ReasonML",
+      "keywords": ["discord"],
+      "date": "2020-05-25T04:37:47.634Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-discord",
+        "homepage": "https://github.com/nschechter/re-discord#readme",
+        "repository": "https://github.com/nschechter/re-discord",
+        "bugs": "https://github.com/nschechter/re-discord/issues"
+      },
+      "publisher": {
+        "username": "noahschechter",
+        "email": "noahschechter7@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "noahschechter",
+          "email": "noahschechter7@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.532045009536751,
+      "detail": {
+        "quality": 0.564586702734817,
+        "popularity": 0.03661394328187332,
+        "maintenance": 0.9995831959075723
+      }
+    },
+    "searchScore": 6.710119,
+    "highlight": "<em>re</em>-discord"
+  },
+  {
+    "package": {
+      "name": "react-is",
+      "scope": "unscoped",
+      "version": "16.13.1",
+      "description": "Brand checking of React Elements.",
+      "keywords": ["react"],
+      "date": "2020-03-19T19:53:28.493Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-is",
+        "homepage": "https://reactjs.org/",
+        "repository": "https://github.com/facebook/react",
+        "bugs": "https://github.com/facebook/react/issues"
+      },
+      "publisher": {
+        "username": "acdlite",
+        "email": "npm@andrewclark.io"
+      },
+      "maintainers": [
+        {
+          "username": "acdlite",
+          "email": "npm@andrewclark.io"
+        },
+        {
+          "username": "brianvaughn",
+          "email": "briandavidvaughn@gmail.com"
+        },
+        {
+          "username": "fb",
+          "email": "opensource+npm@fb.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "lunaruan",
+          "email": "lunaris.ruan@gmail.com"
+        },
+        {
+          "username": "sebmarkbage",
+          "email": "sebastian@calyptus.eu"
+        },
+        {
+          "username": "sophiebits",
+          "email": "npm@sophiebits.com"
+        },
+        {
+          "username": "trueadm",
+          "email": "dg@domgan.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8960594571951905,
+      "detail": {
+        "quality": 0.9001318218692449,
+        "popularity": 0.8138643115808326,
+        "maintenance": 0.9747640045175019
+      }
+    },
+    "searchScore": 6.5567827,
+    "highlight": "<em>re</em>act-is"
+  },
+  {
+    "package": {
+      "name": "re-position",
+      "scope": "unscoped",
+      "version": "0.7.0",
+      "description": "Drag, resize, and rotate all in one flexible React component.",
+      "date": "2020-02-03T13:47:27.855Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-position",
+        "homepage": "https://github.com/rmarganti/re-position#readme",
+        "repository": "https://github.com/rmarganti/re-position",
+        "bugs": "https://github.com/rmarganti/re-position/issues"
+      },
+      "author": {
+        "name": "Ryan Marganti",
+        "email": "ryanmarganti@soulsizzle.com",
+        "username": "rmarganti"
+      },
+      "publisher": {
+        "username": "rmarganti",
+        "email": "ryanmarganti@soulsizzle.com"
+      },
+      "maintainers": [
+        {
+          "username": "rmarganti",
+          "email": "ryanmarganti@soulsizzle.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.5159231280724511,
+      "detail": {
+        "quality": 0.7534721412018861,
+        "popularity": 0.04252727991336331,
+        "maintenance": 0.7857055364063089
+      }
+    },
+    "searchScore": 6.494249,
+    "highlight": "<em>re</em>-position"
+  },
+  {
+    "package": {
+      "name": "re-times",
+      "scope": "unscoped",
+      "version": "1.1.7",
+      "description": "Return Number in seconds to millisecond ( up to Aeon )",
+      "keywords": ["time", "second", "re-time", "retime", "retimes"],
+      "date": "2020-07-02T07:31:57.631Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-times",
+        "homepage": "https://github.com/KenjieDec/re-time#readme",
+        "repository": "https://github.com/KenjieDec/re-time",
+        "bugs": "https://github.com/KenjieDec/re-time/issues"
+      },
+      "author": {
+        "name": "Poor_RBs"
+      },
+      "publisher": {
+        "username": "kenjiedec",
+        "email": "kenjiedec@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "kenjiedec",
+          "email": "kenjiedec@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.5121215344910248,
+      "detail": {
+        "quality": 0.5140227540503831,
+        "popularity": 0.0258331253068896,
+        "maintenance": 0.9967803269099961
+      }
+    },
+    "searchScore": 6.4863553,
+    "highlight": "<em>re</em>-times"
+  },
+  {
+    "package": {
+      "name": "redux-thunk",
+      "scope": "unscoped",
+      "version": "2.3.0",
+      "description": "Thunk middleware for Redux.",
+      "keywords": ["redux", "thunk", "middleware", "redux-middleware", "flux"],
+      "date": "2018-05-28T18:44:08.278Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/redux-thunk",
+        "homepage": "https://github.com/reduxjs/redux-thunk",
+        "repository": "https://github.com/reduxjs/redux-thunk",
+        "bugs": "https://github.com/reduxjs/redux-thunk/issues"
+      },
+      "author": {
+        "name": "Dan Abramov",
+        "email": "dan.abramov@me.com"
+      },
+      "publisher": {
+        "username": "timdorr",
+        "email": "timdorr@timdorr.com"
+      },
+      "maintainers": [
+        {
+          "username": "aikoven",
+          "email": "dan.lytkin@gmail.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "timdorr",
+          "email": "timdorr@timdorr.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8901276097236925,
+      "detail": {
+        "quality": 0.968212750414504,
+        "popularity": 0.7134300804518111,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 6.4439235,
+    "highlight": "<em>re</em>dux-thunk"
+  },
+  {
+    "package": {
+      "name": "react-test-renderer",
+      "scope": "unscoped",
+      "version": "16.13.1",
+      "description": "React package for snapshot testing.",
+      "keywords": ["react", "react-native", "react-testing"],
+      "date": "2020-03-19T19:53:41.821Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-test-renderer",
+        "homepage": "https://reactjs.org/",
+        "repository": "https://github.com/facebook/react",
+        "bugs": "https://github.com/facebook/react/issues"
+      },
+      "publisher": {
+        "username": "acdlite",
+        "email": "npm@andrewclark.io"
+      },
+      "maintainers": [
+        {
+          "username": "acdlite",
+          "email": "npm@andrewclark.io"
+        },
+        {
+          "username": "brianvaughn",
+          "email": "briandavidvaughn@gmail.com"
+        },
+        {
+          "username": "cpojer",
+          "email": "christoph.pojer@gmail.com"
+        },
+        {
+          "username": "fb",
+          "email": "opensource+npm@fb.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "lunaruan",
+          "email": "lunaris.ruan@gmail.com"
+        },
+        {
+          "username": "sebmarkbage",
+          "email": "sebastian@calyptus.eu"
+        },
+        {
+          "username": "sophiebits",
+          "email": "npm@sophiebits.com"
+        },
+        {
+          "username": "trueadm",
+          "email": "dg@domgan.com"
+        },
+        {
+          "username": "zpao",
+          "email": "paul@oshannessy.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8724077006618678,
+      "detail": {
+        "quality": 0.9001318218692449,
+        "popularity": 0.7462878643427675,
+        "maintenance": 0.9747640045175019
+      }
+    },
+    "searchScore": 6.409531,
+    "highlight": "<em>re</em>act-test-<em>re</em>nderer"
+  },
+  {
+    "package": {
+      "name": "re-tree",
+      "scope": "unscoped",
+      "version": "0.1.7",
+      "description": "JavaScript Extended regular expression engine - client side, server side and 'angular side' ready.",
+      "keywords": [
+        "regular expressions",
+        "regexp",
+        "JavaScript",
+        "regex",
+        "nodejs",
+        "iojs",
+        "client",
+        "angularjs"
+      ],
+      "date": "2018-02-23T07:22:51.078Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-tree",
+        "homepage": "https://github.com/srfrnk/re-tree",
+        "repository": "https://github.com/srfrnk/re-tree",
+        "bugs": "https://github.com/srfrnk/re-tree/issues"
+      },
+      "author": {
+        "name": "srfrnk"
+      },
+      "publisher": {
+        "username": "srfrnk",
+        "email": "srfrnk@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "srfrnk",
+          "email": "srfrnk@gmail.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.5031072277313147,
+      "detail": {
+        "quality": 0.8450694847164867,
+        "popularity": 0.13068017732756268,
+        "maintenance": 0.5824237721477765
+      }
+    },
+    "searchScore": 6.387163,
+    "highlight": "<em>re</em>-tree"
+  },
+  {
+    "package": {
+      "name": "re-geo",
+      "scope": "unscoped",
+      "version": "0.0.22",
+      "description": "![image](https://github.com/sadnessOjisan/re-geo/blob/master/sampleImage.png?raw=true)",
+      "keywords": ["geo cities"],
+      "date": "2020-04-28T04:40:15.526Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-geo",
+        "homepage": "https://github.com/sadnessOjisan/re-geo#readme",
+        "repository": "https://github.com/sadnessOjisan/re-geo",
+        "bugs": "https://github.com/sadnessOjisan/re-geo/issues"
+      },
+      "author": {
+        "name": "sadness_ojisan",
+        "email": "sadness.ojisan@gmail.com",
+        "username": "sadness.ojisan"
+      },
+      "publisher": {
+        "username": "sadness.ojisan",
+        "email": "sadness.ojisan@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "sadness.ojisan",
+          "email": "sadness.ojisan@gmail.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.49653707104504474,
+      "detail": {
+        "quality": 0.44614822160365186,
+        "popularity": 0.0445637279842783,
+        "maintenance": 0.9917008564841481
+      }
+    },
+    "searchScore": 6.3196483,
+    "highlight": "<em>re</em>-geo"
+  },
+  {
+    "package": {
+      "name": "re-pubsub",
+      "scope": "unscoped",
+      "version": "1.4.3",
+      "description": "pubsub data flow for react",
+      "keywords": ["pubsub", "data", "flow"],
+      "date": "2016-01-28T16:48:12.433Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-pubsub",
+        "homepage": "https://github.com/zhou-yg/re-pubsub#readme",
+        "repository": "https://github.com/zhou-yg/re-pubsub",
+        "bugs": "https://github.com/zhou-yg/re-pubsub/issues"
+      },
+      "author": {
+        "name": "zhouyg"
+      },
+      "publisher": {
+        "username": "zhouyg",
+        "email": "zhou.y.g.890@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "zhouyg",
+          "email": "zhou.y.g.890@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.4952967897559244,
+      "detail": {
+        "quality": 0.4665490354359516,
+        "popularity": 0.015370151693386201,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 6.2595067,
+    "highlight": "<em>re</em>-pubsub"
+  },
+  {
+    "package": {
+      "name": "read-pkg",
+      "scope": "unscoped",
+      "version": "5.2.0",
+      "description": "Read a package.json file",
+      "keywords": [
+        "json",
+        "read",
+        "parse",
+        "file",
+        "fs",
+        "graceful",
+        "load",
+        "package",
+        "normalize"
+      ],
+      "date": "2019-07-11T08:30:48.441Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/read-pkg",
+        "homepage": "https://github.com/sindresorhus/read-pkg#readme",
+        "repository": "https://github.com/sindresorhus/read-pkg",
+        "bugs": "https://github.com/sindresorhus/read-pkg/issues"
+      },
+      "author": {
+        "name": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "url": "sindresorhus.com",
+        "username": "sindresorhus"
+      },
+      "publisher": {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "sindresorhus",
+          "email": "sindresorhus@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8509191132264127,
+      "detail": {
+        "quality": 0.9461752536317779,
+        "popularity": 0.6202950877019199,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 6.226475,
+    "highlight": "<em>re</em>ad-pkg"
+  },
+  {
+    "package": {
+      "name": "read-pkg-up",
+      "scope": "unscoped",
+      "version": "7.0.1",
+      "description": "Read the closest package.json file",
+      "keywords": [
+        "json",
+        "read",
+        "parse",
+        "file",
+        "fs",
+        "graceful",
+        "load",
+        "package",
+        "find",
+        "up",
+        "find-up",
+        "findup",
+        "look-up",
+        "look",
+        "search",
+        "match",
+        "resolve",
+        "parent",
+        "parents",
+        "folder",
+        "directory",
+        "walk",
+        "walking",
+        "path"
+      ],
+      "date": "2019-12-06T08:19:28.254Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/read-pkg-up",
+        "homepage": "https://github.com/sindresorhus/read-pkg-up#readme",
+        "repository": "https://github.com/sindresorhus/read-pkg-up",
+        "bugs": "https://github.com/sindresorhus/read-pkg-up/issues"
+      },
+      "author": {
+        "name": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "url": "sindresorhus.com",
+        "username": "sindresorhus"
+      },
+      "publisher": {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "sindresorhus",
+          "email": "sindresorhus@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8616157382086242,
+      "detail": {
+        "quality": 0.9461752536317779,
+        "popularity": 0.6508568733653813,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 6.2241654,
+    "highlight": "<em>re</em>ad-pkg-up"
+  },
+  {
+    "package": {
+      "name": "readdirp",
+      "scope": "unscoped",
+      "version": "3.4.0",
+      "description": "Recursive version of fs.readdir with streaming API.",
+      "keywords": [
+        "recursive",
+        "fs",
+        "stream",
+        "streams",
+        "readdir",
+        "filesystem",
+        "find",
+        "filter"
+      ],
+      "date": "2020-03-19T09:59:49.025Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/readdirp",
+        "homepage": "https://github.com/paulmillr/readdirp",
+        "repository": "https://github.com/paulmillr/readdirp",
+        "bugs": "https://github.com/paulmillr/readdirp/issues"
+      },
+      "author": {
+        "name": "Thorsten Lorenz",
+        "email": "thlorenz@gmx.de",
+        "url": "thlorenz.com",
+        "username": "thlorenz"
+      },
+      "publisher": {
+        "username": "paulmillr",
+        "email": "paul@paulmillr.com"
+      },
+      "maintainers": [
+        {
+          "username": "thlorenz",
+          "email": "thlorenz@gmx.de"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8474401173428401,
+      "detail": {
+        "quality": 0.9297364654105561,
+        "popularity": 0.6244454893670454,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 6.214149,
+    "highlight": "<em>re</em>addirp"
+  },
+  {
+    "package": {
+      "name": "react-dev-utils",
+      "scope": "unscoped",
+      "version": "10.2.1",
+      "description": "webpack utilities used by Create React App",
+      "date": "2020-03-21T00:00:27.339Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-dev-utils",
+        "homepage": "https://github.com/facebook/create-react-app#readme",
+        "repository": "https://github.com/facebook/create-react-app",
+        "bugs": "https://github.com/facebook/create-react-app/issues"
+      },
+      "publisher": {
+        "username": "iansu",
+        "email": "ian@iansutherland.ca"
+      },
+      "maintainers": [
+        {
+          "username": "fb",
+          "email": "opensource+npm@fb.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "ianschmitz",
+          "email": "ianschmitz@gmail.com"
+        },
+        {
+          "username": "iansu",
+          "email": "ian@iansutherland.ca"
+        },
+        {
+          "username": "timer",
+          "email": "timer150@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8709088025460248,
+      "detail": {
+        "quality": 0.7656369232535628,
+        "popularity": 0.8376882007904991,
+        "maintenance": 0.9943624436950895
+      }
+    },
+    "searchScore": 6.2139506,
+    "highlight": "<em>re</em>act-dev-utils"
+  },
+  {
+    "package": {
+      "name": "request-promise-native",
+      "scope": "unscoped",
+      "version": "1.0.8",
+      "description": "The simplified HTTP request client 'request' with Promise support. Powered by native ES6 promises.",
+      "keywords": [
+        "xhr",
+        "http",
+        "https",
+        "promise",
+        "request",
+        "then",
+        "thenable",
+        "native"
+      ],
+      "date": "2019-11-04T01:07:47.368Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/request-promise-native",
+        "homepage": "https://github.com/request/request-promise-native#readme",
+        "repository": "https://github.com/request/request-promise-native",
+        "bugs": "https://github.com/request/request-promise-native/issues"
+      },
+      "author": {
+        "name": "Nicolai Kamenzky",
+        "url": "https://github.com/analog-nico"
+      },
+      "publisher": {
+        "username": "analog-nico",
+        "email": "nicolai.kamenzky@testrails.org"
+      },
+      "maintainers": [
+        {
+          "username": "analog-nico",
+          "email": "nicolai.kamenzky@testrails.org"
+        },
+        {
+          "username": "request",
+          "email": "request@outofindex.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8846683824838457,
+      "detail": {
+        "quality": 0.9793328610776205,
+        "popularity": 0.6883008763088609,
+        "maintenance": 0.9998949070070235
+      }
+    },
+    "searchScore": 6.210974,
+    "highlight": "<em>re</em>quest-promise-native"
+  },
+  {
+    "package": {
+      "name": "react-bootstrap",
+      "scope": "unscoped",
+      "version": "1.2.2",
+      "description": "Bootstrap 4 components built with React",
+      "keywords": ["react", "ecosystem-react", "react-component", "bootstrap"],
+      "date": "2020-07-12T18:08:15.104Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-bootstrap",
+        "homepage": "https://react-bootstrap.github.io/",
+        "repository": "https://github.com/react-bootstrap/react-bootstrap",
+        "bugs": "https://github.com/react-bootstrap/react-bootstrap/issues"
+      },
+      "author": {
+        "name": "Stephen J. Collings",
+        "email": "stevoland@gmail.com",
+        "username": "stevoland"
+      },
+      "publisher": {
+        "username": "monastic.panic",
+        "email": "monastic.panic@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "monastic.panic",
+          "email": "monastic.panic@gmail.com"
+        },
+        {
+          "username": "mtscout6",
+          "email": "mtscout6@gmail.com"
+        },
+        {
+          "username": "stevoland",
+          "email": "stevoland@gmail.com"
+        },
+        {
+          "username": "taion",
+          "email": "tesrin@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8675410220819364,
+      "detail": {
+        "quality": 0.9982233291289547,
+        "popularity": 0.6235761525972614,
+        "maintenance": 0.9994924855263099
+      }
+    },
+    "searchScore": 6.207897,
+    "highlight": "<em>re</em>act-bootstrap"
+  },
+  {
+    "package": {
+      "name": "re-az-authentication",
+      "scope": "unscoped",
+      "version": "0.3.0",
+      "description": "Authenticate with the Azure REST API.",
+      "keywords": [
+        "Authentication",
+        "Azure",
+        "Resouce Manager",
+        "Azure Resource Manager"
+      ],
+      "date": "2020-01-28T12:15:03.612Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-az-authentication",
+        "homepage": "https://github.com/RedeployAB/re-az-authentication#readme",
+        "repository": "https://github.com/RedeployAB/re-az-authentication",
+        "bugs": "https://github.com/RedeployAB/re-az-authentication/issues"
+      },
+      "author": {
+        "name": "Karl Wallenius",
+        "email": "karl.wallenius@redeploy.se",
+        "url": "https://redeploy.se/"
+      },
+      "publisher": {
+        "username": "karlgw",
+        "email": "karl.wallenius@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "karlgw",
+          "email": "karl.wallenius@gmail.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.5339399428155409,
+      "detail": {
+        "quality": 0.740662137877828,
+        "popularity": 0.03344630707762697,
+        "maintenance": 0.8572431256429234
+      }
+    },
+    "searchScore": 6.207861,
+    "highlight": "<em>re</em>-az-authentication"
+  },
+  {
+    "package": {
+      "name": "remark-parse",
+      "scope": "unscoped",
+      "version": "8.0.3",
+      "description": "remark plugin to parse Markdown",
+      "keywords": [
+        "unified",
+        "remark",
+        "remark-plugin",
+        "plugin",
+        "markdown",
+        "mdast",
+        "abstract",
+        "syntax",
+        "tree",
+        "ast",
+        "parse"
+      ],
+      "date": "2020-07-17T14:16:26.753Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/remark-parse",
+        "homepage": "https://remark.js.org",
+        "repository": "https://github.com/remarkjs/remark",
+        "bugs": "https://github.com/remarkjs/remark/issues"
+      },
+      "author": {
+        "name": "Titus Wormer",
+        "email": "tituswormer@gmail.com",
+        "url": "https://wooorm.com",
+        "username": "wooorm"
+      },
+      "publisher": {
+        "username": "wooorm",
+        "email": "tituswormer@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "johno",
+          "email": "johnotander@gmail.com"
+        },
+        {
+          "username": "wooorm",
+          "email": "tituswormer@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8558321149715675,
+      "detail": {
+        "quality": 0.9653784612777876,
+        "popularity": 0.6201798956845554,
+        "maintenance": 0.9975874659961053
+      }
+    },
+    "searchScore": 6.1761184,
+    "highlight": "<em>re</em>mark-parse"
+  },
+  {
+    "package": {
+      "name": "remark",
+      "scope": "unscoped",
+      "version": "12.0.1",
+      "description": "Markdown processor powered by plugins part of the unified collective",
+      "keywords": [
+        "unified",
+        "remark",
+        "markdown",
+        "mdast",
+        "abstract",
+        "syntax",
+        "tree",
+        "ast",
+        "parse",
+        "stringify",
+        "serialize",
+        "compile",
+        "process"
+      ],
+      "date": "2020-07-17T14:17:35.093Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/remark",
+        "homepage": "https://remark.js.org",
+        "repository": "https://github.com/remarkjs/remark",
+        "bugs": "https://github.com/remarkjs/remark/issues"
+      },
+      "author": {
+        "name": "Titus Wormer",
+        "email": "tituswormer@gmail.com",
+        "url": "https://wooorm.com",
+        "username": "wooorm"
+      },
+      "publisher": {
+        "username": "wooorm",
+        "email": "tituswormer@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "johno",
+          "email": "johnotander@gmail.com"
+        },
+        {
+          "username": "wooorm",
+          "email": "tituswormer@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8349695591466367,
+      "detail": {
+        "quality": 0.9561592918424214,
+        "popularity": 0.5815699219130852,
+        "maintenance": 0.9844922826409443
+      }
+    },
+    "searchScore": 6.170749,
+    "highlight": "<em>re</em>mark"
+  },
+  {
+    "package": {
+      "name": "resolve-from",
+      "scope": "unscoped",
+      "version": "5.0.0",
+      "description": "Resolve the path of a module like `require.resolve()` but from a given path",
+      "keywords": [
+        "require",
+        "resolve",
+        "path",
+        "module",
+        "from",
+        "like",
+        "import"
+      ],
+      "date": "2019-04-15T04:06:25.601Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/resolve-from",
+        "homepage": "https://github.com/sindresorhus/resolve-from#readme",
+        "repository": "https://github.com/sindresorhus/resolve-from",
+        "bugs": "https://github.com/sindresorhus/resolve-from/issues"
+      },
+      "author": {
+        "name": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "url": "sindresorhus.com",
+        "username": "sindresorhus"
+      },
+      "publisher": {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "sindresorhus",
+          "email": "sindresorhus@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.853812788475717,
+      "detail": {
+        "quality": 0.9551636361098522,
+        "popularity": 0.6208584034330114,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 6.1615458,
+    "highlight": "<em>re</em>solve-from"
+  },
+  {
+    "package": {
+      "name": "react-scripts",
+      "scope": "unscoped",
+      "version": "3.4.3",
+      "description": "Configuration and scripts for Create React App.",
+      "date": "2020-08-12T16:51:29.319Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-scripts",
+        "homepage": "https://github.com/facebook/create-react-app#readme",
+        "repository": "https://github.com/facebook/create-react-app",
+        "bugs": "https://github.com/facebook/create-react-app/issues"
+      },
+      "publisher": {
+        "username": "gaearon",
+        "email": "dan.abramov@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "fb",
+          "email": "opensource+npm@fb.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "ianschmitz",
+          "email": "ianschmitz@gmail.com"
+        },
+        {
+          "username": "iansu",
+          "email": "ian@iansutherland.ca"
+        },
+        {
+          "username": "timer",
+          "email": "timer150@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8556533033940159,
+      "detail": {
+        "quality": 0.7762152653675692,
+        "popularity": 0.7851202937285134,
+        "maintenance": 0.9942760599393301
+      }
+    },
+    "searchScore": 6.1564646,
+    "highlight": "<em>re</em>act-scripts"
+  },
+  {
+    "package": {
+      "name": "regexpp",
+      "scope": "unscoped",
+      "version": "3.1.0",
+      "description": "Regular expression parser for ECMAScript.",
+      "keywords": [
+        "regexp",
+        "regular",
+        "expression",
+        "parser",
+        "validator",
+        "ast",
+        "abstract",
+        "syntax",
+        "tree",
+        "ecmascript",
+        "es2015",
+        "es2016",
+        "es2017",
+        "es2018",
+        "es2019",
+        "es2020",
+        "annexB"
+      ],
+      "date": "2020-04-04T16:45:56.795Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/regexpp",
+        "homepage": "https://github.com/mysticatea/regexpp#readme",
+        "repository": "https://github.com/mysticatea/regexpp",
+        "bugs": "https://github.com/mysticatea/regexpp/issues"
+      },
+      "author": {
+        "name": "Toru Nagashima",
+        "url": "https://github.com/mysticatea"
+      },
+      "publisher": {
+        "username": "mysticatea",
+        "email": "public@mysticatea.dev"
+      },
+      "maintainers": [
+        {
+          "username": "mysticatea",
+          "email": "star.ctor@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8319436194278329,
+      "detail": {
+        "quality": 0.9855154766530226,
+        "popularity": 0.5323130445245479,
+        "maintenance": 0.999941173852384
+      }
+    },
+    "searchScore": 6.123615,
+    "highlight": "<em>re</em>gexpp"
+  },
+  {
+    "package": {
+      "name": "react-hot-loader",
+      "scope": "unscoped",
+      "version": "4.12.21",
+      "description": "Tweak React components in real time.",
+      "keywords": [
+        "react",
+        "javascript",
+        "webpack",
+        "hmr",
+        "livereload",
+        "live",
+        "edit",
+        "hot",
+        "loader",
+        "reload"
+      ],
+      "date": "2020-04-30T07:46:37.338Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-hot-loader",
+        "homepage": "https://github.com/gaearon/react-hot-loader",
+        "repository": "https://github.com/gaearon/react-hot-loader",
+        "bugs": "https://github.com/gaearon/react-hot-loader/issues"
+      },
+      "author": {
+        "name": "Dan Abramov"
+      },
+      "publisher": {
+        "username": "kashey",
+        "email": "thekashey@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "calesce",
+          "email": "newman.cale@gmail.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "kashey",
+          "email": "thekashey@gmail.com"
+        },
+        {
+          "username": "montogeek",
+          "email": "montogeek@gmail.com"
+        },
+        {
+          "username": "neoziro",
+          "email": "berge.greg@gmail.com"
+        },
+        {
+          "username": "wkwiatek",
+          "email": "wojtek.kwiatek@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8588154521198501,
+      "detail": {
+        "quality": 0.9863246821644753,
+        "popularity": 0.6340226279280894,
+        "maintenance": 0.9743146505590752
+      }
+    },
+    "searchScore": 6.1112733,
+    "highlight": "<em>re</em>act-hot-loader"
+  },
+  {
+    "package": {
+      "name": "regenerate",
+      "scope": "unscoped",
+      "version": "1.4.1",
+      "description": "Generate JavaScript-compatible regular expressions based on a given set of Unicode symbols or code points.",
+      "keywords": [
+        "regex",
+        "regexp",
+        "javascript",
+        "unicode",
+        "generator",
+        "tool"
+      ],
+      "date": "2020-06-04T19:57:12.171Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/regenerate",
+        "homepage": "https://mths.be/regenerate",
+        "repository": "https://github.com/mathiasbynens/regenerate",
+        "bugs": "https://github.com/mathiasbynens/regenerate/issues"
+      },
+      "author": {
+        "name": "Mathias Bynens",
+        "url": "https://mathiasbynens.be/"
+      },
+      "publisher": {
+        "username": "mathias",
+        "email": "mathias@qiwi.be"
+      },
+      "maintainers": [
+        {
+          "username": "mathias",
+          "email": "mathias@qiwi.be"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8388202736325339,
+      "detail": {
+        "quality": 0.9893733225188127,
+        "popularity": 0.5487000583876649,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 6.108781,
+    "highlight": "<em>re</em>generate"
+  },
+  {
+    "package": {
+      "name": "react-router-dom",
+      "scope": "unscoped",
+      "version": "5.2.0",
+      "description": "DOM bindings for React Router",
+      "keywords": ["react", "router", "route", "routing", "history", "link"],
+      "date": "2020-05-11T17:12:23.483Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-router-dom",
+        "homepage": "https://github.com/ReactTraining/react-router#readme",
+        "repository": "https://github.com/ReactTraining/react-router",
+        "bugs": "https://github.com/ReactTraining/react-router/issues"
+      },
+      "author": {
+        "name": "React Training",
+        "email": "hello@reacttraining.com"
+      },
+      "publisher": {
+        "username": "mjackson",
+        "email": "npm@mjackson.me"
+      },
+      "maintainers": [
+        {
+          "username": "mjackson",
+          "email": "npm@mjackson.me"
+        },
+        {
+          "username": "timdorr",
+          "email": "timdorr@timdorr.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8527911898057532,
+      "detail": {
+        "quality": 0.7196368853942765,
+        "popularity": 0.8197209157759686,
+        "maintenance": 0.9999937247596609
+      }
+    },
+    "searchScore": 6.102351,
+    "highlight": "<em>re</em>act-router-dom"
+  },
+  {
+    "package": {
+      "name": "re-resize",
+      "scope": "unscoped",
+      "version": "0.0.1",
+      "keywords": ["resize", "ios", "safari", "innerHeight"],
+      "date": "2020-06-09T08:48:57.127Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-resize",
+        "homepage": "https://github.com/Youmenomi/re-resize#readme",
+        "repository": "https://github.com/Youmenomi/re-resize",
+        "bugs": "https://github.com/Youmenomi/re-resize/issues"
+      },
+      "author": {
+        "name": "Dean Yao",
+        "email": "youmenomi@gmail.com",
+        "username": "youmenomi"
+      },
+      "publisher": {
+        "username": "youmenomi",
+        "email": "youmenomi@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "youmenomi",
+          "email": "youmenomi@gmail.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.472592234741657,
+      "detail": {
+        "quality": 0.5205468032366227,
+        "popularity": 0.017754328409551632,
+        "maintenance": 0.8863262252209346
+      }
+    },
+    "searchScore": 6.0984735,
+    "highlight": "<em>re</em>-<em>re</em>size"
+  },
+  {
+    "package": {
+      "name": "react-router",
+      "scope": "unscoped",
+      "version": "5.2.0",
+      "description": "Declarative routing for React",
+      "keywords": ["react", "router", "route", "routing", "history", "link"],
+      "date": "2020-05-11T17:12:18.786Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-router",
+        "homepage": "https://github.com/ReactTraining/react-router#readme",
+        "repository": "https://github.com/ReactTraining/react-router",
+        "bugs": "https://github.com/ReactTraining/react-router/issues"
+      },
+      "author": {
+        "name": "React Training",
+        "email": "hello@reacttraining.com"
+      },
+      "publisher": {
+        "username": "mjackson",
+        "email": "npm@mjackson.me"
+      },
+      "maintainers": [
+        {
+          "username": "mjackson",
+          "email": "npm@mjackson.me"
+        },
+        {
+          "username": "timdorr",
+          "email": "timdorr@timdorr.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8399172258596304,
+      "detail": {
+        "quality": 0.6926248323232864,
+        "popularity": 0.8060912705132862,
+        "maintenance": 0.9999938042371266
+      }
+    },
+    "searchScore": 6.097604,
+    "highlight": "<em>re</em>act-router"
+  },
+  {
+    "package": {
+      "name": "react-error-overlay",
+      "scope": "unscoped",
+      "version": "6.0.7",
+      "description": "An overlay for displaying stack frames.",
+      "keywords": [
+        "overlay",
+        "syntax",
+        "error",
+        "red",
+        "box",
+        "redbox",
+        "crash",
+        "warning"
+      ],
+      "date": "2020-03-21T00:00:22.322Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-error-overlay",
+        "homepage": "https://github.com/facebook/create-react-app#readme",
+        "repository": "https://github.com/facebook/create-react-app",
+        "bugs": "https://github.com/facebook/create-react-app/issues"
+      },
+      "author": {
+        "name": "Joe Haddad",
+        "email": "timer150@gmail.com",
+        "username": "timer"
+      },
+      "publisher": {
+        "username": "iansu",
+        "email": "ian@iansutherland.ca"
+      },
+      "maintainers": [
+        {
+          "username": "fb",
+          "email": "opensource+npm@fb.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "ianschmitz",
+          "email": "ianschmitz@gmail.com"
+        },
+        {
+          "username": "iansu",
+          "email": "ian@iansutherland.ca"
+        },
+        {
+          "username": "timer",
+          "email": "timer150@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.857432689141364,
+      "detail": {
+        "quality": 0.8261425311734156,
+        "popularity": 0.7473257883517381,
+        "maintenance": 0.9943597253320882
+      }
+    },
+    "searchScore": 6.0574245,
+    "highlight": "<em>re</em>act-error-overlay"
+  },
+  {
+    "package": {
+      "name": "re-promise-component",
+      "scope": "unscoped",
+      "version": "1.0.1",
+      "description": "React Promise resolver component, inspired from react apollo client. This will help to have result,loading,error states without initializing additional states or hooks",
+      "date": "2019-10-31T09:09:57.586Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-promise-component",
+        "homepage": "https://github.com/soorajshankar/re-promise-component#readme",
+        "repository": "https://github.com/soorajshankar/re-promise-component",
+        "bugs": "https://github.com/soorajshankar/re-promise-component/issues"
+      },
+      "author": {
+        "name": "soorajshankar"
+      },
+      "publisher": {
+        "username": "sooraj33",
+        "email": "soorajshankar@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "sooraj33",
+          "email": "soorajshankar@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.5227022289616001,
+      "detail": {
+        "quality": 0.8260496173103905,
+        "popularity": 0.0133095740915533,
+        "maintenance": 0.7720828366755409
+      }
+    },
+    "searchScore": 6.056399,
+    "highlight": "<em>re</em>-promise-component"
+  },
+  {
+    "package": {
+      "name": "react-refresh",
+      "scope": "unscoped",
+      "version": "0.8.3",
+      "description": "React is a JavaScript library for building user interfaces.",
+      "keywords": ["react"],
+      "date": "2020-05-23T13:26:59.055Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-refresh",
+        "homepage": "https://reactjs.org/",
+        "repository": "https://github.com/facebook/react",
+        "bugs": "https://github.com/facebook/react/issues"
+      },
+      "publisher": {
+        "username": "gaearon",
+        "email": "dan.abramov@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "acdlite",
+          "email": "npm@andrewclark.io"
+        },
+        {
+          "username": "brianvaughn",
+          "email": "briandavidvaughn@gmail.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "lunaruan",
+          "email": "lunaris.ruan@gmail.com"
+        },
+        {
+          "username": "necolas",
+          "email": "nicolasgallagher@gmail.com"
+        },
+        {
+          "username": "sebmarkbage",
+          "email": "sebastian@calyptus.eu"
+        },
+        {
+          "username": "threepointone",
+          "email": "threepointone@gmail.com"
+        },
+        {
+          "username": "trueadm",
+          "email": "dg@domgan.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.81013762928502,
+      "detail": {
+        "quality": 0.7923861272196393,
+        "popularity": 0.6607268272514357,
+        "maintenance": 0.9747640045175019
+      }
+    },
+    "searchScore": 6.055763,
+    "highlight": "<em>re</em>act-<em>re</em>fresh"
+  },
+  {
+    "package": {
+      "name": "react-dropzone",
+      "scope": "unscoped",
+      "version": "11.0.3",
+      "description": "Simple HTML5 drag-drop zone with React.js",
+      "keywords": ["react-component", "react", "drag", "drop", "upload"],
+      "date": "2020-08-13T05:51:08.404Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-dropzone",
+        "homepage": "https://github.com/react-dropzone/react-dropzone",
+        "repository": "https://github.com/react-dropzone/react-dropzone",
+        "bugs": "https://github.com/react-dropzone/react-dropzone/issues"
+      },
+      "author": {
+        "name": "Param Aggarwal"
+      },
+      "publisher": {
+        "username": "rolandjitsu",
+        "email": "rolandjitsu@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "okonet",
+          "email": "andrey@okonet.ru"
+        },
+        {
+          "username": "rolandjitsu",
+          "email": "rolandjitsu@gmail.com"
+        },
+        {
+          "username": "rxmarbles",
+          "email": "rmarkins@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8437905962950083,
+      "detail": {
+        "quality": 0.9514023435132434,
+        "popularity": 0.597880439025597,
+        "maintenance": 0.9974621130916468
+      }
+    },
+    "searchScore": 6.054049,
+    "highlight": "<em>re</em>act-dropzone"
+  },
+  {
+    "package": {
+      "name": "react-router-redux",
+      "scope": "unscoped",
+      "version": "4.0.8",
+      "description": "Ruthlessly simple bindings to keep react-router and redux in sync",
+      "keywords": ["react", "redux", "router"],
+      "date": "2017-02-10T16:02:07.148Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-router-redux",
+        "homepage": "https://github.com/reactjs/react-router-redux#readme",
+        "repository": "https://github.com/reactjs/react-router-redux",
+        "bugs": "https://github.com/reactjs/react-router-redux/issues"
+      },
+      "publisher": {
+        "username": "timdorr",
+        "email": "timdorr@timdorr.com"
+      },
+      "maintainers": [
+        {
+          "username": "jlongster",
+          "email": "longster@gmail.com"
+        },
+        {
+          "username": "mjackson",
+          "email": "michael@jackson.us"
+        },
+        {
+          "username": "timdorr",
+          "email": "timdorr@timdorr.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8159401816408449,
+      "detail": {
+        "quality": 0.9782651897572331,
+        "popularity": 0.49280310417829887,
+        "maintenance": 0.9999415378607726
+      }
+    },
+    "searchScore": 6.042779,
+    "highlight": "<em>re</em>act-router-<em>re</em>dux"
+  },
+  {
+    "package": {
+      "name": "react-intl",
+      "scope": "unscoped",
+      "version": "5.6.3",
+      "description": "Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.",
+      "keywords": [
+        "intl",
+        "i18n",
+        "internationalization",
+        "locale",
+        "localization",
+        "globalization",
+        "react",
+        "reactjs",
+        "format",
+        "formatting",
+        "translate",
+        "translation"
+      ],
+      "date": "2020-08-15T14:41:38.188Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-intl",
+        "homepage": "https://formatjs.io/docs/react-intl",
+        "repository": "https://github.com/formatjs/formatjs",
+        "bugs": "https://github.com/formatjs/formatjs/issues"
+      },
+      "author": {
+        "name": "Eric Ferraiuolo",
+        "email": "edf@ericf.me"
+      },
+      "publisher": {
+        "username": "longlho",
+        "email": "holevietlong@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "caridy",
+          "email": "caridy@gmail.com"
+        },
+        {
+          "username": "clarle",
+          "email": "contact@clarle.com"
+        },
+        {
+          "username": "ericf",
+          "email": "eferraiuolo@gmail.com"
+        },
+        {
+          "username": "juandopazo",
+          "email": "juan@dopazo.me"
+        },
+        {
+          "username": "longlho",
+          "email": "holevietlong@gmail.com"
+        },
+        {
+          "username": "okuryu",
+          "email": "okuryu@okuryu.com"
+        },
+        {
+          "username": "pyrocat",
+          "email": "dinglinjie+npm@gmail.com"
+        },
+        {
+          "username": "redonkulus",
+          "email": "seth@bertalotto.net"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8313869406868072,
+      "detail": {
+        "quality": 0.9004246963871785,
+        "popularity": 0.6036451816591907,
+        "maintenance": 0.999953480542677
+      }
+    },
+    "searchScore": 6.0388923,
+    "highlight": "<em>re</em>act-intl"
+  },
+  {
+    "package": {
+      "name": "react-popper",
+      "scope": "unscoped",
+      "version": "2.2.3",
+      "description": "Official library to use Popper on React projects",
+      "keywords": [
+        "react",
+        "react-popper",
+        "popperjs",
+        "component",
+        "drop",
+        "tooltip",
+        "popover"
+      ],
+      "date": "2020-04-28T09:55:08.691Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-popper",
+        "homepage": "https://github.com/popperjs/react-popper",
+        "repository": "https://github.com/popperjs/react-popper",
+        "bugs": "https://github.com/popperjs/react-popper/issues"
+      },
+      "author": {
+        "name": "Travis Arnold",
+        "email": "travis@souporserious.com",
+        "url": "http://souporserious.com"
+      },
+      "publisher": {
+        "username": "fezvrasta",
+        "email": "federico.zivolo@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "fezvrasta",
+          "email": "federico.zivolo@gmail.com"
+        },
+        {
+          "username": "souporserious",
+          "email": "ftntravis@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8367219703551017,
+      "detail": {
+        "quality": 0.94293734898983,
+        "popularity": 0.5824616871886938,
+        "maintenance": 0.9999405004060284
+      }
+    },
+    "searchScore": 6.03821,
+    "highlight": "<em>re</em>act-popper"
+  },
+  {
+    "package": {
+      "name": "repeat-string",
+      "scope": "unscoped",
+      "version": "1.6.1",
+      "description": "Repeat the given string n times. Fastest implementation for repeating a string.",
+      "keywords": [
+        "fast",
+        "fastest",
+        "fill",
+        "left",
+        "left-pad",
+        "multiple",
+        "pad",
+        "padding",
+        "repeat",
+        "repeating",
+        "repetition",
+        "right",
+        "right-pad",
+        "string",
+        "times"
+      ],
+      "date": "2016-10-23T16:54:00.613Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/repeat-string",
+        "homepage": "https://github.com/jonschlinkert/repeat-string",
+        "repository": "https://github.com/jonschlinkert/repeat-string",
+        "bugs": "https://github.com/jonschlinkert/repeat-string/issues"
+      },
+      "author": {
+        "name": "Jon Schlinkert",
+        "url": "http://github.com/jonschlinkert"
+      },
+      "publisher": {
+        "username": "jonschlinkert",
+        "email": "github@sellside.com"
+      },
+      "maintainers": [
+        {
+          "username": "doowb",
+          "email": "brian.woodward@gmail.com"
+        },
+        {
+          "username": "jonschlinkert",
+          "email": "github@sellside.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8353551750454868,
+      "detail": {
+        "quality": 0.9693610843463369,
+        "popularity": 0.5559837820260916,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 6.010419,
+    "highlight": "<em>re</em>peat-string"
+  },
+  {
+    "package": {
+      "name": "replace-ext",
+      "scope": "unscoped",
+      "version": "2.0.0",
+      "description": "Replaces a file extension with another one.",
+      "keywords": ["gulp", "extensions", "filepath", "basename"],
+      "date": "2020-05-04T01:07:42.619Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/replace-ext",
+        "homepage": "https://github.com/gulpjs/replace-ext#readme",
+        "repository": "https://github.com/gulpjs/replace-ext",
+        "bugs": "https://github.com/gulpjs/replace-ext/issues"
+      },
+      "author": {
+        "name": "Gulp Team",
+        "email": "team@gulpjs.com",
+        "url": "http://gulpjs.com/"
+      },
+      "publisher": {
+        "username": "phated",
+        "email": "blaine.bublitz@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "contra",
+          "email": "yo@contra.io"
+        },
+        {
+          "username": "phated",
+          "email": "blaine.bublitz@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8298968973049479,
+      "detail": {
+        "quality": 0.9883212435556948,
+        "popularity": 0.5241064794200919,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 6.0078936,
+    "highlight": "<em>re</em>place-ext"
+  },
+  {
+    "package": {
+      "name": "redent",
+      "scope": "unscoped",
+      "version": "3.0.0",
+      "description": "Strip redundant indentation and indent the string",
+      "keywords": [
+        "string",
+        "strip",
+        "trim",
+        "indent",
+        "indentation",
+        "add",
+        "reindent",
+        "normalize",
+        "remove",
+        "whitespace",
+        "space"
+      ],
+      "date": "2019-04-26T06:38:25.407Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/redent",
+        "homepage": "https://github.com/sindresorhus/redent#readme",
+        "repository": "https://github.com/sindresorhus/redent",
+        "bugs": "https://github.com/sindresorhus/redent/issues"
+      },
+      "author": {
+        "name": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "url": "sindresorhus.com",
+        "username": "sindresorhus"
+      },
+      "publisher": {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "sindresorhus",
+          "email": "sindresorhus@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8124631417312775,
+      "detail": {
+        "quality": 0.9399732029033087,
+        "popularity": 0.5156904074543275,
+        "maintenance": 0.9999415378607726
+      }
+    },
+    "searchScore": 6.0044184,
+    "highlight": "<em>re</em>dent"
+  },
+  {
+    "package": {
+      "name": "redux-saga",
+      "scope": "unscoped",
+      "version": "1.1.3",
+      "description": "Saga middleware for Redux to handle Side Effects",
+      "keywords": [
+        "javascript",
+        "redux",
+        "middleware",
+        "saga",
+        "effects",
+        "side effects"
+      ],
+      "date": "2019-11-05T23:27:35.908Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/redux-saga",
+        "homepage": "https://redux-saga.js.org/",
+        "repository": "https://github.com/redux-saga/redux-saga",
+        "bugs": "https://github.com/redux-saga/redux-saga/issues"
+      },
+      "author": {
+        "name": "Yassine ELOUAFI",
+        "email": "yelouafi@gmail.com",
+        "username": "yelouafi"
+      },
+      "publisher": {
+        "username": "andarist",
+        "email": "mateuszburzynski@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "andarist",
+          "email": "mateuszburzynski@gmail.com"
+        },
+        {
+          "username": "yelouafi",
+          "email": "yelouafi@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8258145186639356,
+      "detail": {
+        "quality": 0.8963565706177038,
+        "popularity": 0.627721407659521,
+        "maintenance": 0.9634430137079775
+      }
+    },
+    "searchScore": 5.998416,
+    "highlight": "<em>re</em>dux-saga"
+  },
+  {
+    "package": {
+      "name": "react-table",
+      "scope": "unscoped",
+      "version": "7.5.0",
+      "description": "Hooks for building lightweight, fast and extendable datagrids for React",
+      "keywords": ["react", "table", "react-table", "datagrid"],
+      "date": "2020-08-04T02:57:51.398Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-table",
+        "homepage": "https://github.com/tannerlinsley/react-table#readme",
+        "repository": "https://github.com/tannerlinsley/react-table",
+        "bugs": "https://github.com/tannerlinsley/react-table/issues"
+      },
+      "publisher": {
+        "username": "tannerlinsley",
+        "email": "tannerlinsley@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "tannerlinsley",
+          "email": "tannerlinsley@gmail.com"
+        },
+        {
+          "username": "zsherman",
+          "email": "zach.h.sherman@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8276972972258814,
+      "detail": {
+        "quality": 0.9652160754525813,
+        "popularity": 0.5375215152390206,
+        "maintenance": 0.9999998407327138
+      }
+    },
+    "searchScore": 5.99197,
+    "highlight": "<em>re</em>act-table"
+  },
+  {
+    "package": {
+      "name": "resolve-cwd",
+      "scope": "unscoped",
+      "version": "3.0.0",
+      "description": "Resolve the path of a module like `require.resolve()` but from the current working directory",
+      "keywords": [
+        "require",
+        "resolve",
+        "path",
+        "module",
+        "from",
+        "like",
+        "cwd",
+        "current",
+        "working",
+        "directory",
+        "import"
+      ],
+      "date": "2019-04-30T12:53:23.953Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/resolve-cwd",
+        "homepage": "https://github.com/sindresorhus/resolve-cwd#readme",
+        "repository": "https://github.com/sindresorhus/resolve-cwd",
+        "bugs": "https://github.com/sindresorhus/resolve-cwd/issues"
+      },
+      "author": {
+        "name": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "url": "sindresorhus.com",
+        "username": "sindresorhus"
+      },
+      "publisher": {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "sindresorhus",
+          "email": "sindresorhus@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8268174422480188,
+      "detail": {
+        "quality": 0.952525208191244,
+        "popularity": 0.5459903524269666,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 5.9856005,
+    "highlight": "<em>re</em>solve-cwd"
+  },
+  {
+    "package": {
+      "name": "remark-stringify",
+      "scope": "unscoped",
+      "version": "8.1.1",
+      "description": "remark plugin to compile Markdown",
+      "keywords": [
+        "unified",
+        "remark",
+        "remark-plugin",
+        "plugin",
+        "markdown",
+        "mdast",
+        "markdown",
+        "abstract",
+        "syntax",
+        "tree",
+        "ast",
+        "stringify",
+        "serialize",
+        "compile"
+      ],
+      "date": "2020-07-17T14:16:59.849Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/remark-stringify",
+        "homepage": "https://remark.js.org",
+        "repository": "https://github.com/remarkjs/remark",
+        "bugs": "https://github.com/remarkjs/remark/issues"
+      },
+      "author": {
+        "name": "Titus Wormer",
+        "email": "tituswormer@gmail.com",
+        "url": "https://wooorm.com",
+        "username": "wooorm"
+      },
+      "publisher": {
+        "username": "wooorm",
+        "email": "tituswormer@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "johno",
+          "email": "johnotander@gmail.com"
+        },
+        {
+          "username": "wooorm",
+          "email": "tituswormer@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8357421989149754,
+      "detail": {
+        "quality": 0.9662117311851502,
+        "popularity": 0.5627608261077018,
+        "maintenance": 0.9968925440620995
+      }
+    },
+    "searchScore": 5.965273,
+    "highlight": "<em>re</em>mark-stringify"
+  },
+  {
+    "package": {
+      "name": "react-i18next",
+      "scope": "unscoped",
+      "version": "11.7.0",
+      "description": "Internationalization for react done right. Using the i18next i18n ecosystem.",
+      "keywords": [
+        "i18next",
+        "internationalization",
+        "i18n",
+        "translation",
+        "localization",
+        "l10n",
+        "globalization",
+        "react",
+        "reactjs"
+      ],
+      "date": "2020-06-19T05:57:29.040Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-i18next",
+        "homepage": "https://github.com/i18next/react-i18next",
+        "repository": "https://github.com/i18next/react-i18next",
+        "bugs": "https://github.com/i18next/react-i18next/issues"
+      },
+      "author": {
+        "name": "Jan Mühlemann",
+        "email": "jan.muehlemann@gmail.com",
+        "url": "https://github.com/jamuhl",
+        "username": "jamuhl"
+      },
+      "publisher": {
+        "username": "jamuhl",
+        "email": "jan.muehlemann@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "adrai",
+          "email": "adriano@raiano.ch"
+        },
+        {
+          "username": "jamuhl",
+          "email": "jan.muehlemann@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8374758321644216,
+      "detail": {
+        "quality": 0.9987204104304805,
+        "popularity": 0.5367420422638994,
+        "maintenance": 0.999999983551179
+      }
+    },
+    "searchScore": 5.961565,
+    "highlight": "<em>re</em>act-i18next"
+  },
+  {
+    "package": {
+      "name": "react-fast-compare",
+      "scope": "unscoped",
+      "version": "3.2.0",
+      "description": "Fastest deep equal comparison for React. Great for React.memo & shouldComponentUpdate. Also really fast general-purpose deep comparison.",
+      "keywords": [
+        "fast",
+        "equal",
+        "react",
+        "compare",
+        "shouldComponentUpdate",
+        "deep-equal"
+      ],
+      "date": "2020-05-28T15:49:05.777Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-fast-compare",
+        "homepage": "https://github.com/FormidableLabs/react-fast-compare",
+        "repository": "https://github.com/FormidableLabs/react-fast-compare",
+        "bugs": "https://github.com/FormidableLabs/react-fast-compare/issues"
+      },
+      "author": {
+        "name": "Chris Bolin"
+      },
+      "publisher": {
+        "username": "kale-stew",
+        "email": "kylieastewart@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "andyrichardson",
+          "email": "andy.john.richardson@gmail.com"
+        },
+        {
+          "username": "bmathews",
+          "email": "spoonart@gmail.com"
+        },
+        {
+          "username": "boygirl",
+          "email": "lauren.eastridge@formidable.com"
+        },
+        {
+          "username": "carbonrobot",
+          "email": "carbonrobot@gmail.com"
+        },
+        {
+          "username": "carlospaelinck",
+          "email": "me@carlos.dev"
+        },
+        {
+          "username": "chrisbolin",
+          "email": "bolin.chris@gmail.com"
+        },
+        {
+          "username": "coopy",
+          "email": "per@sproutlab.com"
+        },
+        {
+          "username": "eastridge",
+          "email": "ryan@eastridge.me"
+        },
+        {
+          "username": "ebrillhart",
+          "email": "emma.brillhart@gmail.com"
+        },
+        {
+          "username": "exogen",
+          "email": "exogen@gmail.com"
+        },
+        {
+          "username": "formidable-owner",
+          "email": "admin@formidablelabs.com"
+        },
+        {
+          "username": "formidablelabs",
+          "email": "npm@formidablelabs.com"
+        },
+        {
+          "username": "hartzis",
+          "email": "brianhartz@gmail.com"
+        },
+        {
+          "username": "imranolas",
+          "email": "imranolas@gmail.com"
+        },
+        {
+          "username": "jason.wilson",
+          "email": "jrwilson@gmail.com"
+        },
+        {
+          "username": "jmcbee1",
+          "email": "jmcbee1@gmail.com"
+        },
+        {
+          "username": "kale-stew",
+          "email": "kylieastewart@gmail.com"
+        },
+        {
+          "username": "kiraarghy",
+          "email": "kara.stubbs@formidable.com"
+        },
+        {
+          "username": "knitcodemonkey",
+          "email": "jen.luker@formidable.com"
+        },
+        {
+          "username": "kylecesmat",
+          "email": "kyle@kylecesmat.com"
+        },
+        {
+          "username": "mariano-formidable",
+          "email": "mariano.martinez@formidable.com"
+        },
+        {
+          "username": "mfulgham",
+          "email": "monet.fulgham@formidable.com"
+        },
+        {
+          "username": "mhink",
+          "email": "mhink1103@gmail.com"
+        },
+        {
+          "username": "michaelmerrill",
+          "email": "michael@michaelmerrill.me"
+        },
+        {
+          "username": "parkerziegler",
+          "email": "parker.ziegler@formidable.com"
+        },
+        {
+          "username": "paulathevalley",
+          "email": "lavalle.paula@gmail.com"
+        },
+        {
+          "username": "philpl",
+          "email": "phil@kitten.sh"
+        },
+        {
+          "username": "ryan.roemer",
+          "email": "ryan@loose-bits.com"
+        },
+        {
+          "username": "ryanisinallofus",
+          "email": "ryanrray@gmail.com"
+        },
+        {
+          "username": "samwhale",
+          "email": "samuelestrella226@gmail.com"
+        },
+        {
+          "username": "sarmeyer",
+          "email": "sarahmichellemeyer@gmail.com"
+        },
+        {
+          "username": "stefvhuynh",
+          "email": "huynh.stefan@gmail.com"
+        },
+        {
+          "username": "thekenwheeler",
+          "email": "ken_wheeler@me.com"
+        },
+        {
+          "username": "tptee",
+          "email": "tyler@tylerpaulthompson.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8413183001111693,
+      "detail": {
+        "quality": 0.9948244368113007,
+        "popularity": 0.5511479165828786,
+        "maintenance": 0.9999119950393472
+      }
+    },
+    "searchScore": 5.9572115,
+    "highlight": "<em>re</em>act-fast-compare"
+  },
+  {
+    "package": {
+      "name": "regex-not",
+      "scope": "unscoped",
+      "version": "1.0.2",
+      "description": "Create a javascript regular expression for matching everything except for the given string.",
+      "keywords": [
+        "exec",
+        "match",
+        "negate",
+        "negation",
+        "not",
+        "regex",
+        "regular expression",
+        "test"
+      ],
+      "date": "2018-02-20T02:31:14.441Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/regex-not",
+        "homepage": "https://github.com/jonschlinkert/regex-not",
+        "repository": "https://github.com/jonschlinkert/regex-not",
+        "bugs": "https://github.com/jonschlinkert/regex-not/issues"
+      },
+      "author": {
+        "name": "Jon Schlinkert",
+        "url": "https://github.com/jonschlinkert"
+      },
+      "publisher": {
+        "username": "jonschlinkert",
+        "email": "github@sellside.com"
+      },
+      "maintainers": [
+        {
+          "username": "jonschlinkert",
+          "email": "github@sellside.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8172028647893288,
+      "detail": {
+        "quality": 0.9603727018682626,
+        "popularity": 0.511824366275418,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 5.9570713,
+    "highlight": "<em>re</em>gex-not"
+  },
+  {
+    "package": {
+      "name": "reusify",
+      "scope": "unscoped",
+      "version": "1.0.4",
+      "description": "Reuse objects and functions with style",
+      "keywords": ["reuse", "object", "performance", "function", "fast"],
+      "date": "2018-01-26T09:28:18.775Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/reusify",
+        "homepage": "https://github.com/mcollina/reusify#readme",
+        "repository": "https://github.com/mcollina/reusify",
+        "bugs": "https://github.com/mcollina/reusify/issues"
+      },
+      "author": {
+        "name": "Matteo Collina",
+        "email": "hello@matteocollina.com",
+        "username": "matteo.collina"
+      },
+      "publisher": {
+        "username": "matteo.collina",
+        "email": "hello@matteocollina.com"
+      },
+      "maintainers": [
+        {
+          "username": "matteo.collina",
+          "email": "hello@matteocollina.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8088389824522031,
+      "detail": {
+        "quality": 0.9749095789429582,
+        "popularity": 0.47539020148012945,
+        "maintenance": 0.9999415378607726
+      }
+    },
+    "searchScore": 5.9535503,
+    "highlight": "<em>re</em>usify"
+  },
+  {
+    "package": {
+      "name": "react-reconciler",
+      "scope": "unscoped",
+      "version": "0.25.1",
+      "description": "React package for creating custom renderers.",
+      "keywords": ["react"],
+      "date": "2020-03-19T19:53:32.968Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-reconciler",
+        "homepage": "https://reactjs.org/",
+        "repository": "https://github.com/facebook/react",
+        "bugs": "https://github.com/facebook/react/issues"
+      },
+      "publisher": {
+        "username": "acdlite",
+        "email": "npm@andrewclark.io"
+      },
+      "maintainers": [
+        {
+          "username": "acdlite",
+          "email": "npm@andrewclark.io"
+        },
+        {
+          "username": "brianvaughn",
+          "email": "briandavidvaughn@gmail.com"
+        },
+        {
+          "username": "fb",
+          "email": "opensource+npm@fb.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "lunaruan",
+          "email": "lunaris.ruan@gmail.com"
+        },
+        {
+          "username": "sebmarkbage",
+          "email": "sebastian@calyptus.eu"
+        },
+        {
+          "username": "sophiebits",
+          "email": "npm@sophiebits.com"
+        },
+        {
+          "username": "trueadm",
+          "email": "dg@domgan.com"
+        }
+      ]
+    },
+    "flags": {
+      "unstable": true
+    },
+    "score": {
+      "final": 0.7997823289213912,
+      "detail": {
+        "quality": 0.7923861272196393,
+        "popularity": 0.6311402547839254,
+        "maintenance": 0.9747640045175019
+      }
+    },
+    "searchScore": 5.936148,
+    "highlight": "<em>re</em>act-<em>re</em>conciler"
+  },
+  {
+    "package": {
+      "name": "react-beautiful-dnd",
+      "scope": "unscoped",
+      "version": "13.0.0",
+      "description": "Beautiful and accessible drag and drop for lists with React",
+      "keywords": [
+        "drag and drop",
+        "dnd",
+        "sortable",
+        "reorder",
+        "reorderable",
+        "react",
+        "react.js",
+        "natural",
+        "beautiful",
+        "accessible"
+      ],
+      "date": "2020-02-24T21:36:15.736Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-beautiful-dnd",
+        "homepage": "https://github.com/atlassian/react-beautiful-dnd#readme",
+        "repository": "https://github.com/atlassian/react-beautiful-dnd",
+        "bugs": "https://github.com/atlassian/react-beautiful-dnd/issues"
+      },
+      "author": {
+        "name": "Alex Reardon",
+        "email": "areardon@atlassian.com"
+      },
+      "publisher": {
+        "username": "alexreardon",
+        "email": "alexreardon@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "alexreardon",
+          "email": "alexreardon@gmail.com"
+        },
+        {
+          "username": "jaredcrowe",
+          "email": "jared.j.crowe@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8393879541350138,
+      "detail": {
+        "quality": 0.975116745520688,
+        "popularity": 0.5667920374776858,
+        "maintenance": 0.995644906747478
+      }
+    },
+    "searchScore": 5.929946,
+    "highlight": "<em>re</em>act-beautiful-dnd"
+  },
+  {
+    "package": {
+      "name": "re-toaster",
+      "scope": "unscoped",
+      "version": "1.0.6",
+      "description": "React Redux Toaster Component",
+      "keywords": ["react", "redux"],
+      "date": "2020-01-25T14:20:14.911Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-toaster",
+        "homepage": "https://github.com/Sunny-fr/re-toaster#readme",
+        "repository": "https://github.com/Sunny-fr/re-toaster",
+        "bugs": "https://github.com/Sunny-fr/re-toaster/issues"
+      },
+      "author": {
+        "name": "Alaa El Helw"
+      },
+      "publisher": {
+        "username": "sunny-fr",
+        "email": "sicksadsun@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "sunny-fr",
+          "email": "sicksadsun@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.47000312740562333,
+      "detail": {
+        "quality": 0.3835863744308594,
+        "popularity": 0.014213397268319404,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 5.9276505,
+    "highlight": "<em>re</em>-toaster"
+  },
+  {
+    "package": {
+      "name": "repeating",
+      "scope": "unscoped",
+      "version": "3.0.0",
+      "description": "Repeat a string - fast",
+      "keywords": [
+        "repeat",
+        "string",
+        "repeating",
+        "str",
+        "text",
+        "fill",
+        "pad"
+      ],
+      "date": "2016-06-19T19:35:05.265Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/repeating",
+        "homepage": "https://github.com/sindresorhus/repeating#readme",
+        "repository": "https://github.com/sindresorhus/repeating",
+        "bugs": "https://github.com/sindresorhus/repeating/issues"
+      },
+      "author": {
+        "name": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "url": "sindresorhus.com",
+        "username": "sindresorhus"
+      },
+      "publisher": {
+        "username": "sindresorhus",
+        "email": "sindresorhus@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "sindresorhus",
+          "email": "sindresorhus@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8095927641933274,
+      "detail": {
+        "quality": 0.9527285069526389,
+        "popularity": 0.496556211017901,
+        "maintenance": 0.9999415378607726
+      }
+    },
+    "searchScore": 5.9156103,
+    "highlight": "<em>re</em>peating"
+  },
+  {
+    "package": {
+      "name": "react-hook-form",
+      "scope": "unscoped",
+      "version": "6.4.0",
+      "description": "Performant, flexible and extensible forms library for React Hooks",
+      "keywords": [
+        "react",
+        "hooks",
+        "form",
+        "forms",
+        "form-validation",
+        "validation",
+        "typescript",
+        "react-hooks"
+      ],
+      "date": "2020-08-15T06:06:49.132Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-hook-form",
+        "homepage": "https://www.react-hook-form.com",
+        "repository": "https://github.com/react-hook-form/react-hook-form",
+        "bugs": "https://github.com/react-hook-form/react-hook-form/issues"
+      },
+      "author": {
+        "email": "bluebill1049@hotmail.com"
+      },
+      "publisher": {
+        "username": "bluebill1049",
+        "email": "bluebill1049@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "bluebill1049",
+          "email": "bluebill1049@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8273905455600187,
+      "detail": {
+        "quality": 0.9972212290684758,
+        "popularity": 0.5092119338270744,
+        "maintenance": 1
+      }
+    },
+    "searchScore": 5.903447,
+    "highlight": "<em>re</em>act-hook-form"
+  },
+  {
+    "package": {
+      "name": "react-use",
+      "scope": "unscoped",
+      "version": "15.3.3",
+      "description": "Collection of React Hooks",
+      "date": "2020-07-24T07:17:43.783Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-use",
+        "homepage": "https://github.com/streamich/react-use#readme",
+        "repository": "https://github.com/streamich/react-use",
+        "bugs": "https://github.com/streamich/react-use/issues"
+      },
+      "author": {
+        "name": "@streamich"
+      },
+      "publisher": {
+        "username": "streamich",
+        "email": "vadimsdaleckis@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "streamich",
+          "email": "vadimsdaleckis@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8096727231121583,
+      "detail": {
+        "quality": 0.94293734898983,
+        "popularity": 0.5059128806684325,
+        "maintenance": 0.9992057433750228
+      }
+    },
+    "searchScore": 5.9021792,
+    "highlight": "<em>re</em>act-use"
+  },
+  {
+    "package": {
+      "name": "require-main-filename",
+      "scope": "unscoped",
+      "version": "2.0.0",
+      "description": "shim for require.main.filename() that works in as many environments as possible",
+      "keywords": ["require", "shim", "iisnode"],
+      "date": "2019-01-28T19:42:56.566Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/require-main-filename",
+        "homepage": "https://github.com/yargs/require-main-filename#readme",
+        "repository": "https://github.com/yargs/require-main-filename",
+        "bugs": "https://github.com/yargs/require-main-filename/issues"
+      },
+      "author": {
+        "name": "Ben Coe",
+        "email": "ben@npmjs.com",
+        "username": "bcoe"
+      },
+      "publisher": {
+        "username": "bcoe",
+        "email": "ben@npmjs.com"
+      },
+      "maintainers": [
+        {
+          "username": "bcoe",
+          "email": "ben@npmjs.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8355502148144701,
+      "detail": {
+        "quality": 0.9983736828984237,
+        "popularity": 0.5316730968928267,
+        "maintenance": 0.9998643600927251
+      }
+    },
+    "searchScore": 5.8777633,
+    "highlight": "<em>re</em>quire-main-filename"
+  },
+  {
+    "package": {
+      "name": "reactcss",
+      "scope": "unscoped",
+      "version": "1.2.3",
+      "description": "Bringing Classes to Inline Styles",
+      "keywords": ["react", "reactcss"],
+      "date": "2017-09-07T23:40:44.759Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/reactcss",
+        "homepage": "https://github.com/casesandberg/reactcss#readme",
+        "repository": "https://github.com/casesandberg/reactcss",
+        "bugs": "https://github.com/casesandberg/reactcss/issues"
+      },
+      "author": {
+        "name": "case",
+        "email": "case@casesandberg.com",
+        "username": "case"
+      },
+      "publisher": {
+        "username": "case",
+        "email": "case@casesandberg.com"
+      },
+      "maintainers": [
+        {
+          "username": "case",
+          "email": "case@casesandberg.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8005326606998797,
+      "detail": {
+        "quality": 0.934033243578934,
+        "popularity": 0.4867412319571208,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 5.870184,
+    "highlight": "<em>re</em>actcss"
+  },
+  {
+    "package": {
+      "name": "react-app-polyfill",
+      "scope": "unscoped",
+      "version": "1.0.6",
+      "description": "Polyfills for various browsers including commonly used language features",
+      "date": "2020-01-31T04:05:50.997Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-app-polyfill",
+        "homepage": "https://github.com/facebook/create-react-app#readme",
+        "repository": "https://github.com/facebook/create-react-app",
+        "bugs": "https://github.com/facebook/create-react-app/issues"
+      },
+      "publisher": {
+        "username": "iansu",
+        "email": "ian@iansutherland.ca"
+      },
+      "maintainers": [
+        {
+          "username": "fb",
+          "email": "opensource+npm@fb.com"
+        },
+        {
+          "username": "gaearon",
+          "email": "dan.abramov@gmail.com"
+        },
+        {
+          "username": "ianschmitz",
+          "email": "ianschmitz@gmail.com"
+        },
+        {
+          "username": "iansu",
+          "email": "ian@iansutherland.ca"
+        },
+        {
+          "username": "timer",
+          "email": "timer150@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8289664131578537,
+      "detail": {
+        "quality": 0.7286252678723508,
+        "popularity": 0.7495860177651319,
+        "maintenance": 0.9943535045095779
+      }
+    },
+    "searchScore": 5.86975,
+    "highlight": "<em>re</em>act-app-polyfill"
+  },
+  {
+    "package": {
+      "name": "react-responsive",
+      "scope": "unscoped",
+      "version": "8.1.0",
+      "description": "Media queries in react for responsive design",
+      "keywords": [
+        "css",
+        "react-component",
+        "viewport",
+        "react",
+        "mobile",
+        "media queries",
+        "respond",
+        "media query",
+        "matchMedia",
+        "responsive",
+        "component"
+      ],
+      "date": "2020-06-02T22:14:19.699Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-responsive",
+        "homepage": "http://github.com/contra/react-responsive",
+        "repository": "https://github.com/contra/react-responsive",
+        "bugs": "https://github.com/contra/react-responsive/issues"
+      },
+      "author": {
+        "name": "Contra",
+        "email": "yo@contra.io",
+        "url": "http://contra.io"
+      },
+      "publisher": {
+        "username": "contra",
+        "email": "yo@contra.io"
+      },
+      "maintainers": [
+        {
+          "username": "contra",
+          "email": "contra@wearefractal.com"
+        },
+        {
+          "username": "fractal",
+          "email": "contact@wearefractal.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.7906058538545061,
+      "detail": {
+        "quality": 0.9397889047532849,
+        "popularity": 0.45344550282089524,
+        "maintenance": 0.9998950184034496
+      }
+    },
+    "searchScore": 5.8680387,
+    "highlight": "<em>re</em>act-<em>re</em>sponsive"
+  },
+  {
+    "package": {
+      "name": "re-pdf-viewer",
+      "scope": "unscoped",
+      "version": "1.0.1",
+      "description": "A React component to wrap PDF.js using react-pdf-js-infinite-zoom but with page numbers",
+      "keywords": ["react", "reactjs", "pdf", "pdfjs"],
+      "date": "2020-07-06T19:47:16.681Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/re-pdf-viewer",
+        "homepage": "https://github.com/naveensaikiran/re-pdf-viewer",
+        "repository": "https://github.com/naveensaikiran/re-pdf-viewer",
+        "bugs": "https://github.com/naveensaikiran/re-pdf-viewer/issues"
+      },
+      "author": {
+        "name": "NaveenSaiKiran Kolli",
+        "url": "https://github.com/naveensaikiran"
+      },
+      "publisher": {
+        "username": "naveesaikiran",
+        "email": "naveensaikolli@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "naveesaikiran",
+          "email": "naveensaikolli@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.5008904332770774,
+      "detail": {
+        "quality": 0.4794419527374182,
+        "popularity": 0.02344588571134145,
+        "maintenance": 0.9967193927339497
+      }
+    },
+    "searchScore": 5.867523,
+    "highlight": "<em>re</em>-pdf-viewer"
+  },
+  {
+    "package": {
+      "name": "react-toastify",
+      "scope": "unscoped",
+      "version": "6.0.8",
+      "description": "React notification made easy",
+      "keywords": [
+        "react",
+        "notification",
+        "toast",
+        "react-component",
+        "react-toastify",
+        "push",
+        "alert"
+      ],
+      "date": "2020-07-02T17:43:28.447Z",
+      "links": {
+        "npm": "https://www.npmjs.com/package/react-toastify",
+        "homepage": "https://github.com/fkhadra/react-toastify#readme",
+        "repository": "https://github.com/fkhadra/react-toastify",
+        "bugs": "https://github.com/fkhadra/react-toastify/issues"
+      },
+      "author": {
+        "name": "Fadi Khadra",
+        "email": "fdkhadra@gmail.com",
+        "url": "https://fkhadra.github.io",
+        "username": "sniphpet"
+      },
+      "publisher": {
+        "username": "sniphpet",
+        "email": "fdkhadra@gmail.com"
+      },
+      "maintainers": [
+        {
+          "username": "sniphpet",
+          "email": "fdkhadra@gmail.com"
+        }
+      ]
+    },
+    "score": {
+      "final": 0.8163525791875974,
+      "detail": {
+        "quality": 0.9882671611032017,
+        "popularity": 0.48760604729710066,
+        "maintenance": 0.9977437551504336
+      }
+    },
+    "searchScore": 5.8571863,
+    "highlight": "<em>re</em>act-toastify"
+  }
+]
