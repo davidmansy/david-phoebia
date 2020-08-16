@@ -4,8 +4,7 @@
   "description": "Web app enabling to fetch the bundle sizes of npm packages and compare versions",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +23,10 @@
   },
   "homepage": "https://github.com/davidmansy/david-phoebia#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }

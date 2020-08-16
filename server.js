@@ -1,11 +1,17 @@
 const express = require("express");
+const bodyParser = require("body-parser");
+
 const app = express();
-const port = process.env.PORT || 5000;
 
-// console.log that your server is up and running
-app.listen(port, () => console.log(`Listening on port ${port}`));
+const fs = require("fs");
 
-// create a GET route
-app.get("/api", (req, res) => {
-  res.send({ express: "YOUR EXPRESS BACKEND IS CONNECTED TO REACT" });
+// configure our express instance with some body-parser settings
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
+
+const routes = require("./routes/routes.js")(app, fs);
+
+// launch server on port 5000.
+const server = app.listen(5000, () => {
+  console.log("listening on port %s...", server.address().port);
 });
