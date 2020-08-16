@@ -1,0 +1,29 @@
+{
+  "name": "david-phoebia",
+  "version": "1.0.0",
+  "description": "Web app enabling to fetch the bundle sizes of npm packages and compare versions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmansy/david-phoebia.git"
+  },
+  "keywords": [
+    "npm",
+    "bundle",
+    "sizes",
+    "comparison"
+  ],
+  "author": "David Mansy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmansy/david-phoebia/issues"
+  },
+  "homepage": "https://github.com/davidmansy/david-phoebia#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
