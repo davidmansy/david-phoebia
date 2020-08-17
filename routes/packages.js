@@ -1,16 +1,16 @@
 const querystring = require("querystring");
 
+function findMatches(wordToMatch, npmPackages) {
+  return !wordToMatch
+    ? npmPackages
+    : npmPackages.filter((npmPackage) => {
+        const regex = new RegExp(wordToMatch, "gi");
+        return npmPackage.package.name.match(regex);
+      });
+}
+
 const packagesRoutes = (app, fs) => {
   const dataPath = "./data/packages.json";
-
-  function findMatches(wordToMatch, npmPackages) {
-    return !wordToMatch
-      ? npmPackages
-      : npmPackages.filter((npmPackage) => {
-          const regex = new RegExp(wordToMatch, "gi");
-          return npmPackage.package.name.match(regex);
-        });
-  }
 
   app.get("/packages", (req, res) => {
     const searchString = req.query.q;

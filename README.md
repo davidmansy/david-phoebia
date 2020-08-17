@@ -11,6 +11,7 @@ From the terminal
 - In the root folder, run node server.js
 - In the client folder, run npm start
 - In your browser, open https://localhost:3000 and enjoy!
+- Watch out to get results, you need to enter at least 're' in the seach field...Mocked data.
 
 # UI
 
