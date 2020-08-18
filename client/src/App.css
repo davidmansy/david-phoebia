@@ -1,0 +1,105 @@
+html {
+  background-color: #ffffff;
+  box-sizing: border-box;
+  font-family: "helvetica neue";
+  font-size: 20px;
+  font-weight: 200;
+  height: 100%;
+}
+
+body,
+#root,
+.App {
+  height: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 120px;
+}
+
+input {
+  padding: 20px;
+  width: 100%;
+}
+
+h1.main-title {
+  font-size: 28px;
+  letter-spacing: 4px;
+  margin: 20px 0 0 0;
+  text-align: center;
+}
+
+span.first-word {
+  color: #878787;
+}
+
+.main-description {
+  color: #767676;
+  font-size: 20px;
+  letter-spacing: normal;
+  margin: 10px 0 30px 0;
+}
+
+.search-container {
+  max-width: 500px;
+  margin: 10px 10px 50px 10px auto;
+}
+
+.search {
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  font-size: 40px;
+  margin: 0;
+  outline: 0;
+  padding: 12px 45px 12px 30px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  z-index: 2;
+}
+
+.search-with-suggestions {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.suggestions {
+  border: 1px solid lightgrey;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top: 0;
+  cursor: pointer;
+  height: 250px;
+  margin: 0;
+  overflow-y: scroll;
+  padding: 0;
+  position: relative;
+  top: -1px;
+  z-index: 2;
+}
+
+.suggestions li {
+  background: white;
+  border-top: 1px solid #f7f4f4;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0;
+  padding: 20px;
+  text-transform: capitalize;
+  transition: background 0.2s;
+}
+
+.suggestions li:hover {
+  background: #cce0ef;
+}
