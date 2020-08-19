@@ -5,7 +5,7 @@ import "./App.css";
 import { ReactComponent as Logo } from "./assets/logo.svg";
 
 // TODO: Unit test
-// TODO: react error boundaries
+// TODO: chart library
 // TODO: E2E test
 
 function App() {
