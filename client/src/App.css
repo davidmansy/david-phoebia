@@ -53,6 +53,7 @@ span.first-word {
 .search-container {
   max-width: 500px;
   margin: 10px 10px 50px 10px auto;
+  position: relative;
 }
 
 .search {
@@ -83,13 +84,14 @@ span.first-word {
   margin: 0;
   overflow-y: scroll;
   padding: 0;
-  position: relative;
-  top: -1px;
+  position: absolute;
+  top: 69px;
+  width: 100%;
   z-index: 2;
 }
 
 .suggestions li {
-  background: white;
+  background: rgb(255 255 255 / 0.8);
   border-top: 1px solid #f7f4f4;
   display: flex;
   justify-content: space-between;

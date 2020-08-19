@@ -16,7 +16,9 @@ function sendSelectedData(data, { name, count, major }, res) {
   const versions = data[name] || {};
   const filteredVersionsKeys = filterVersions(versions, count, major);
 
-  res.send(utils.filterObjectUsingKeys(filteredVersionsKeys, versions));
+  const arrayOfVersions = res.send(
+    utils.buildArrayFromObject(filteredVersionsKeys, versions)
+  );
 }
 
 const versionsRoutes = (app, fs) => {

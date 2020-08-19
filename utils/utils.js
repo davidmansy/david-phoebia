@@ -7,4 +7,12 @@ function filterObjectUsingKeys(keys, rawObject) {
       }, {});
 }
 
-exports.filterObject = filterObjectUsingKeys;
+function buildArrayFromObject(keys, rawObject) {
+  return keys.reduce((arr, key) => {
+    arr.push(rawObject[key]);
+    return arr;
+  }, []);
+}
+
+exports.filterObjectUsingKeys = filterObjectUsingKeys;
+exports.buildArrayFromObject = buildArrayFromObject;
