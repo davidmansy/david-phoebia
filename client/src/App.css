@@ -51,15 +51,17 @@ span.first-word {
 }
 
 .search-container {
-  max-width: 500px;
+  width: 400px;
   margin: 10px 10px 50px 10px auto;
   position: relative;
+  text-align: center;
 }
 
 .search {
   border: 1px solid lightgrey;
   border-radius: 10px;
-  font-size: 40px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  font-size: 30px;
   margin: 0;
   outline: 0;
   padding: 12px 45px 12px 30px;
@@ -79,13 +81,14 @@ span.first-word {
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   border-top: 0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
   cursor: pointer;
-  height: 250px;
   margin: 0;
+  max-height: 250px;
   overflow-y: scroll;
   padding: 0;
   position: absolute;
-  top: 69px;
+  top: 59px;
   width: 100%;
   z-index: 2;
 }
@@ -104,4 +107,8 @@ span.first-word {
 
 .suggestions li:hover {
   background: #cce0ef;
+}
+
+.package-detail {
+  text-align: center;
 }

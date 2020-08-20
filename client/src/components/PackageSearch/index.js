@@ -3,6 +3,7 @@ import { getPackages } from "../../api/index";
 import useDebounce from "../../hooks/useDebounce";
 import Suggestions from "./Suggestions";
 import Input from "./Input";
+import { ReactComponent as Loader } from "../../assets/loader.svg";
 
 const PACKAGE_VERSION_SEPARATOR = "@";
 
@@ -42,7 +43,7 @@ function PackageSearch({ setSelectedPackage }) {
           searchTerm={searchTerm}
           setSearchTerm={setSearchTerm}
         />
-        {isLoading && <div>Loading ...</div>}
+        {isLoading && <Loader style={{ width: "50px" }} />}
         {!showSuggestions ? null : (
           <Suggestions
             packages={packages}

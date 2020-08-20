@@ -1,8 +1,10 @@
 import React from "react";
+import { ReactComponent as Logo } from "../../assets/logo.svg";
 
 function Header() {
   return (
     <React.Fragment>
+      <Logo />
       <h1 className="main-title">
         <span className="first-word">DAVID</span>
         <span>PHOEBIA</span>
