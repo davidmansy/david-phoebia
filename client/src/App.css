@@ -19,6 +19,10 @@ body,
   box-sizing: inherit;
 }
 
+.hidden {
+  display: none;
+}
+
 .container {
   display: flex;
   flex-direction: column;

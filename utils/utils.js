@@ -14,5 +14,12 @@ function buildArrayFromObject(keys, rawObject) {
   }, []);
 }
 
+function compose(...fns) {
+  return function (x) {
+    return fns.reduceRight((acc, fn) => fn(acc), x);
+  };
+}
+
 exports.filterObjectUsingKeys = filterObjectUsingKeys;
 exports.buildArrayFromObject = buildArrayFromObject;
+exports.compose = compose;

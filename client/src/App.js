@@ -4,6 +4,11 @@ import Header from "./components/Header/index";
 import PackageSearch from "./components/PackageSearch/index";
 import PackageDetail from "./components/PackageDetail";
 
+//TODO: unit tests
+//TODO: cache /packages
+//TODO: cypress
+//TODO: AWS deploy
+
 function App() {
   const [selectedPackage, setSelectedPackage] = React.useState(null);
 

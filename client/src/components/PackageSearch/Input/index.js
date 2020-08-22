@@ -2,13 +2,19 @@ import React from "react";
 
 function Input({ showSuggestions, searchTerm, setSearchTerm }) {
   return (
-    <input
-      className={`search ${showSuggestions ? "search-with-suggestions" : ""}`}
-      placeholder="type 're' to try"
-      type="text"
-      value={searchTerm}
-      onChange={(e) => setSearchTerm(e.target.value)}
-    />
+    <React.Fragment>
+      <label className="hidden" htmlFor="searchterm">
+        Search Term
+      </label>
+      <input
+        className={`search ${showSuggestions ? "search-with-suggestions" : ""}`}
+        id="searchterm"
+        placeholder="type 're' to try"
+        type="search"
+        value={searchTerm}
+        onChange={(e) => setSearchTerm(e.target.value)}
+      />
+    </React.Fragment>
   );
 }
 

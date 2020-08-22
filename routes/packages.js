@@ -1,5 +1,3 @@
-const querystring = require("querystring");
-
 function findMatches(wordToMatch, npmPackages) {
   return !wordToMatch
     ? npmPackages
@@ -11,17 +9,22 @@ function findMatches(wordToMatch, npmPackages) {
 
 const packagesRoutes = (app, fs) => {
   const dataPath = "./data/packages.json";
+  let data;
 
   app.get("/packages", (req, res) => {
     const searchString = req.query.q;
+    if (data) {
+      res.send(findMatches(searchString, data));
+      return;
+    }
 
     fs.readFile(dataPath, "utf8", (err, data) => {
       if (err) {
         throw err;
       }
 
-      const matchedNpmPackages = findMatches(searchString, JSON.parse(data));
-      res.send(matchedNpmPackages);
+      data = JSON.parse(data);
+      res.send(findMatches(searchString, data));
     });
   });
 };

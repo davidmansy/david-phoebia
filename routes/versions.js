@@ -1,20 +1,38 @@
 const utils = require("../utils/utils");
 
-function filterVersions(versions, count, major) {
-  let versionsKeys = Object.keys(versions);
-
-  if (major) {
+function filterVersionsByMajor({ versionsKeys, count, major }) {
+  if (major)
     versionsKeys = versionsKeys.filter(
       (version) => version.split(".")[0] === major
     );
-  }
+  return { versionsKeys, count, major };
+}
 
-  return count && count > 0 ? versionsKeys.slice(-count) : versionsKeys;
+function filterVersionsByCount({ versionsKeys, count, major }) {
+  if (count && count > 0) {
+    versionsKeys = versionsKeys.slice(-count);
+  }
+  return { versionsKeys, count, major };
+}
+
+function filterVersions(versions, count, major) {
+  return utils.compose(
+    filterVersionsByCount,
+    filterVersionsByMajor
+  )({
+    versionsKeys: Object.keys(versions),
+    count,
+    major,
+  });
 }
 
 function sendSelectedData(data, { name, count, major }, res) {
   const versions = data[name] || {};
-  const filteredVersionsKeys = filterVersions(versions, count, major);
+  const { versionsKeys: filteredVersionsKeys } = filterVersions(
+    versions,
+    count,
+    major
+  );
 
   res.send(utils.filterObjectUsingKeys(filteredVersionsKeys, versions));
 }
