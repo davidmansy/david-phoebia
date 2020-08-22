@@ -2,7 +2,7 @@
 
 Web app enabling to fetch the bundle sizes of npm packages and compare versions
 
-# Installation
+# Installation and run
 
 From the terminal
 
@@ -10,6 +10,12 @@ From the terminal
 - In the client folder, run yarn install, then yarn start
 - In your browser, open https://localhost:3000 and enjoy!
 - Watch out to get results, you need to enter at least 're' in the seach field...Mocked data.
+
+# Client unit tests
+
+From the terminal
+
+- In the client folder, run yarn test
 
 # UI
 
