@@ -6,10 +6,11 @@ describe("buildUrl", () => {
     expect(buildUrl(uri, {})).toBe("http://www.test.com?");
   });
 
-  it(`should return a url without parameters when one undefined param`, () => {
+  it(`should return a url without parameters when one undefined/null param`, () => {
     const uri = "http://www.test.com";
     const params = {
       param1: undefined,
+      param2: null,
     };
     expect(buildUrl(uri, params)).toBe("http://www.test.com?");
   });

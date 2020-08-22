@@ -1,35 +1,47 @@
 import React from "react";
-import { getPackages } from "../../api/index";
+import { getPackages } from "../../api/core-api/index";
 import useDebounce from "../../hooks/useDebounce";
 import Suggestions from "./Suggestions";
 import Input from "./Input";
 import { ReactComponent as Loader } from "../../assets/loader.svg";
 
-const PACKAGE_VERSION_SEPARATOR = "@";
+const VERSION_SEPARATOR = "@";
+const WAIT = 400;
 
 function PackageSearch({ setSelectedPackage }) {
   const [packages, setPackages] = React.useState([]);
   const [searchTerm, setSearchTerm] = React.useState("");
   const [isLoading, setIsLoading] = React.useState(false);
-  const debouncedSearchTerm = useDebounce(searchTerm, 400);
+  const [isError, setIsError] = React.useState(null);
+
+  const debouncedSearchTerm = useDebounce(searchTerm, WAIT);
   const showSuggestions = packages.length > 0;
 
   const handleSelectPackage = (npmPackage) => {
     setSelectedPackage(npmPackage);
     setPackages([]);
-    setSearchTerm(`${npmPackage.name}@${npmPackage.version}`);
+    setSearchTerm(
+      `${npmPackage.name}${VERSION_SEPARATOR}${npmPackage.version}`
+    );
   };
 
   React.useEffect(() => {
     if (
       debouncedSearchTerm.length > 1 &&
-      !debouncedSearchTerm.includes(PACKAGE_VERSION_SEPARATOR)
+      !debouncedSearchTerm.includes(VERSION_SEPARATOR)
     ) {
       setIsLoading(true);
-      getPackages(debouncedSearchTerm).then((packages) => {
-        setIsLoading(false);
-        setPackages(packages);
-      });
+      getPackages(debouncedSearchTerm)
+        .then((packages) => {
+          setIsLoading(false);
+          setIsError(null);
+          setPackages(packages);
+        })
+        .catch((error) => {
+          setIsLoading(false);
+          setIsError(error);
+          setPackages([]);
+        });
     } else {
       setPackages([]);
     }
@@ -44,12 +56,17 @@ function PackageSearch({ setSelectedPackage }) {
           setSearchTerm={setSearchTerm}
         />
         {isLoading && <Loader style={{ width: "50px" }} />}
-        {!showSuggestions ? null : (
+        {isError && (
+          <p
+            style={{ color: "red" }}
+          >{`Something went wrong: ${isError.message}`}</p>
+        )}
+        {showSuggestions ? (
           <Suggestions
             packages={packages}
             handleSelectPackage={handleSelectPackage}
           />
-        )}
+        ) : null}
       </div>
     </React.Fragment>
   );

@@ -1,10 +1,20 @@
 import React from "react";
-import { VictoryBar, VictoryChart, VictoryAxis, VictoryTheme } from "victory";
+import {
+  VictoryBar,
+  VictoryChart,
+  VictoryAxis,
+  VictoryTheme,
+  VictoryContainer,
+} from "victory";
 
 function Chart({ versions }) {
   return (
     <React.Fragment>
-      <VictoryChart domainPadding={20} theme={VictoryTheme.material}>
+      <VictoryChart
+        domainPadding={20}
+        theme={VictoryTheme.material}
+        containerComponent={<VictoryContainer title="Chart of versions" />}
+      >
         <VictoryAxis
           tickValues={versions.map((_, i) => i + 1)}
           tickFormat={versions.map((v) => v.version)}

@@ -7,6 +7,7 @@ function Input({ showSuggestions, searchTerm, setSearchTerm }) {
         Search Term
       </label>
       <input
+        autoComplete="off"
         className={`search ${showSuggestions ? "search-with-suggestions" : ""}`}
         id="searchterm"
         placeholder="type 're' to try"

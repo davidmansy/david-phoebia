@@ -5,7 +5,7 @@ import PackageSearch from "./components/PackageSearch/index";
 import PackageDetail from "./components/PackageDetail";
 
 //TODO: unit tests
-//TODO: cache /packages
+//TODO: add code to handle fail API + unit test -> See Robin
 //TODO: cypress
 //TODO: AWS deploy
 

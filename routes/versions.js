@@ -15,12 +15,12 @@ function filterVersionsByCount({ versionsKeys, count, major }) {
   return { versionsKeys, count, major };
 }
 
-function filterVersions(versions, count, major) {
+function filterVersionsKeys(versionsKeys, count, major) {
   return utils.compose(
     filterVersionsByCount,
     filterVersionsByMajor
   )({
-    versionsKeys: Object.keys(versions),
+    versionsKeys,
     count,
     major,
   });
@@ -28,8 +28,8 @@ function filterVersions(versions, count, major) {
 
 function sendSelectedData(data, { name, count, major }, res) {
   const versions = data[name] || {};
-  const { versionsKeys: filteredVersionsKeys } = filterVersions(
-    versions,
+  const { versionsKeys: filteredVersionsKeys } = filterVersionsKeys(
+    Object.keys(versions),
     count,
     major
   );
