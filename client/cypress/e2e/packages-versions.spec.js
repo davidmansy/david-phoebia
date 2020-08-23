@@ -1,5 +1,5 @@
 describe("Retrieve packages and versions", () => {
-  it("can retrieve a list of packages and select React", () => {
+  it("can retrieve a list of packages, select React and display versions data", () => {
     cy.visit("/");
     cy.findByRole("heading", { name: /DAVIDPHOEBIA/i });
     cy.findByLabelText("Search Term").type("react");
@@ -10,7 +10,7 @@ describe("Retrieve packages and versions", () => {
     cy.findByText("17.0.0-rc.0").should("exist");
   });
 
-  it("can retrieve a list of packages and select Redux", () => {
+  it("can retrieve a list of packages and select Redux and display versions data", () => {
     cy.visit("/");
     cy.findByRole("heading", { name: /DAVIDPHOEBIA/i });
     cy.findByLabelText("Search Term").type("red");

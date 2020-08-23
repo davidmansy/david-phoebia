@@ -4,11 +4,6 @@ import Header from "./components/Header/index";
 import PackageSearch from "./components/PackageSearch/index";
 import PackageDetail from "./components/PackageDetail";
 
-//TODO: unit tests
-//TODO: add code to handle fail API + unit test -> See Robin
-//TODO: cypress
-//TODO: AWS deploy
-
 function App() {
   const [selectedPackage, setSelectedPackage] = React.useState(null);
 

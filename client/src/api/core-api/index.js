@@ -1,7 +1,18 @@
 import { buildUrl } from "../../utils/utils";
 
-const PACKAGE_URL = "/packages";
-const VERSIONS_URL = "/package-history";
+let host;
+
+if (process.env.NODE_ENV === "development") {
+  host = "/";
+}
+
+if (process.env.NODE_ENV === "production") {
+  host =
+    "https://us-central1-david-phoebia-server.cloudfunctions.net/davidPhoebia/";
+}
+
+const PACKAGE_URI = "packages";
+const VERSIONS_URI = "package-history";
 
 function handleFailedHttpResponse(response) {
   if (!response.ok) {
@@ -21,11 +32,11 @@ function handleFetchUrl(url) {
 }
 
 export function getPackages(searchValue) {
-  const url = buildUrl(PACKAGE_URL, { q: searchValue });
+  const url = buildUrl(`${host}${PACKAGE_URI}`, { q: searchValue });
   return handleFetchUrl(url);
 }
 
 export function getVersions(name, count, major) {
-  const url = buildUrl(VERSIONS_URL, { name, count, major });
+  const url = buildUrl(`${host}${VERSIONS_URI}`, { name, count, major });
   return handleFetchUrl(url);
 }
