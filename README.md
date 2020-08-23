@@ -17,6 +17,12 @@ From the terminal
 
 - In the client folder, run yarn test
 
+# Client e2e tests
+
+From the terminal
+
+- In the client folder, run yarn test:e2e (will start the dev server and run cypress)
+
 # UI
 
 React app with a design extremely inspired of bundle-phoebia.

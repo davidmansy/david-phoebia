@@ -16,6 +16,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "cy:run": "cypress run",
+    "test:e2e": "start-server-and-test 'yarn start' http://localhost:3000 'yarn cy:run'",
     "eject": "react-scripts eject"
   },
   "proxy": "http://localhost:5000/",
@@ -33,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@testing-library/cypress": "^6.0.1",
+    "cypress": "^5.0.0",
+    "start-server-and-test": "^1.11.3"
   }
 }

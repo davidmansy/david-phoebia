@@ -6,6 +6,7 @@ function Suggestions({ packages, handleSelectPackage }) {
       {packages.map(({ package: npmPackage }) => {
         return (
           <li
+            aria-label={npmPackage.name}
             onClick={() => handleSelectPackage(npmPackage)}
             key={`${npmPackage.name}-${npmPackage.version}`}
           >
